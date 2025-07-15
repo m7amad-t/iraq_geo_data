@@ -1,0 +1,2644 @@
+{
+  "version": "1.0.0",
+  "source": "from multiple Gemini ",
+  "country": "Iraq (Kurdistan Region)",
+  "provinces": [
+    {
+      "engName": "Anbar",
+      "krdName": "پارێزگای ئەنبار",
+      "arbName": "محافظة الأنبار",
+      "districts": [
+        {
+          "engName": "Al-Qa'im District",
+          "krdName": "",
+          "arbName": "قضاء القائم",
+          "subdistricts": [
+            {
+              "engName": "Al-Qa'im",
+              "krdName": "",
+              "arbName": "القائم",
+              "villages": []
+            },
+            {
+              "engName": "Husaybah",
+              "krdName": "",
+              "arbName": "حصيبة",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Ar-Rutba District",
+          "krdName": "",
+          "arbName": "قضاء الرطبة",
+          "subdistricts": [
+            {
+              "engName": "Ar-Rutba",
+              "krdName": "",
+              "arbName": "الرطبة",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Anah District",
+          "krdName": "",
+          "arbName": "قضاء عانة",
+          "subdistricts": [
+            {
+              "engName": "Anah",
+              "krdName": "",
+              "arbName": "عانة",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Fallujah District",
+          "krdName": "",
+          "arbName": "قضاء الفلوجة",
+          "subdistricts": [
+            {
+              "engName": "Fallujah",
+              "krdName": "",
+              "arbName": "الفلوجة",
+              "villages": []
+            },
+            {
+              "engName": "Al-Karma",
+              "krdName": "",
+              "arbName": "الكرمة",
+              "villages": []
+            },
+            {
+              "engName": "Saqlawiyah",
+              "krdName": "",
+              "arbName": "الصقلاوية",
+              "villages": []
+            },
+            {
+              "engName": "Amiriyat al-Fallujah",
+              "krdName": "",
+              "arbName": "عامرية الفلوجة",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Haditha District",
+          "krdName": "",
+          "arbName": "قضاء حديثة",
+          "subdistricts": [
+            {
+              "engName": "Haditha",
+              "krdName": "",
+              "arbName": "حديثة",
+              "villages": []
+            },
+            {
+              "engName": "Barwanah",
+              "krdName": "",
+              "arbName": "بروانة",
+              "villages": []
+            },
+            {
+              "engName": "Haqlaniyah",
+              "krdName": "",
+              "arbName": "الحقلانية",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Hit District",
+          "krdName": "",
+          "arbName": "قضاء هيت",
+          "subdistricts": [
+            {
+              "engName": "Hit",
+              "krdName": "",
+              "arbName": "هيت",
+              "villages": []
+            },
+            {
+              "engName": "Kubaysah",
+              "krdName": "",
+              "arbName": "كبيسة",
+              "villages": []
+            },
+            {
+              "engName": "Al-Baghdadi",
+              "krdName": "",
+              "arbName": "البغدادي",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Ramadi District",
+          "krdName": "",
+          "arbName": "قضاء الرمادي",
+          "subdistricts": [
+            {
+              "engName": "Ramadi",
+              "krdName": "",
+              "arbName": "الرمادي",
+              "villages": []
+            },
+            {
+              "engName": "Al-Jazeerah",
+              "krdName": "",
+              "arbName": "الجزيرة",
+              "villages": []
+            },
+            {
+              "engName": "Al-Habbaniyah",
+              "krdName": "",
+              "arbName": "الحبانية",
+              "villages": []
+            },
+            {
+              "engName": "Al-Khalidiyah",
+              "krdName": "",
+              "arbName": "الخالدية",
+              "villages": []
+            },
+            {
+              "engName": "Al-Madinah",
+              "krdName": "",
+              "arbName": "المدينة",
+              "villages": []
+            },
+            {
+              "engName": "Al-Ta'ameem",
+              "krdName": "",
+              "arbName": "التأميم",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Rawah District",
+          "krdName": "",
+          "arbName": "قضاء راوة",
+          "subdistricts": [
+            {
+              "engName": "Rawah",
+              "krdName": "",
+              "arbName": "راوة",
+              "villages": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "engName": "Babil",
+      "krdName": "پارێزگای بابل",
+      "arbName": "محافظة بابل",
+      "districts": [
+        {
+          "engName": "Al-Mahawil District",
+          "krdName": "",
+          "arbName": "قضاء المحاويل",
+          "subdistricts": [
+            {
+              "engName": "Al-Mahawil",
+              "krdName": "",
+              "arbName": "المحاويل",
+              "villages": []
+            },
+            {
+              "engName": "Al-Imam",
+              "krdName": "",
+              "arbName": "الإمام",
+              "villages": []
+            },
+            {
+              "engName": "Abu Gharaq",
+              "krdName": "",
+              "arbName": "أبو غرق",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Al-Musayab District",
+          "krdName": "",
+          "arbName": "قضاء المسيب",
+          "subdistricts": [
+            {
+              "engName": "Al-Musayab",
+              "krdName": "",
+              "arbName": "المسيب",
+              "villages": []
+            },
+            {
+              "engName": "Iskandariya",
+              "krdName": "",
+              "arbName": "الإسكندرية",
+              "villages": []
+            },
+            {
+              "engName": "Jurf al-Sakhar",
+              "krdName": "",
+              "arbName": "جرف الصخر",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Hashimiya District",
+          "krdName": "",
+          "arbName": "قضاء الهاشمية",
+          "subdistricts": [
+            {
+              "engName": "Al-Hashimiya",
+              "krdName": "",
+              "arbName": "الهاشمية",
+              "villages": []
+            },
+            {
+              "engName": "Qasim",
+              "krdName": "",
+              "arbName": "القاسم",
+              "villages": []
+            },
+            {
+              "engName": "Al-Tali'ah",
+              "krdName": "",
+              "arbName": "الطليعة",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Hilla District",
+          "krdName": "",
+          "arbName": "قضاء الحلة",
+          "subdistricts": [
+            {
+              "engName": "Hilla",
+              "krdName": "",
+              "arbName": "الحلة",
+              "villages": []
+            },
+            {
+              "engName": "Al-Kifl",
+              "krdName": "",
+              "arbName": "الكفل",
+              "villages": []
+            },
+            {
+              "engName": "Al-Madhatiyah",
+              "krdName": "",
+              "arbName": "المدحتية",
+              "villages": []
+            },
+            {
+              "engName": "Al-Shomali",
+              "krdName": "",
+              "arbName": "الشوملي",
+              "villages": []
+            },
+            {
+              "engName": "Abi Gharaq",
+              "krdName": "",
+              "arbName": "أبي غرق",
+              "villages": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "engName": "Baghdad",
+      "krdName": "پارێزگای بەغدا",
+      "arbName": "محافظة بغداد",
+      "districts": [
+        {
+          "engName": "Abu Ghraib District",
+          "krdName": "",
+          "arbName": "قضاء أبي غريب",
+          "subdistricts": [
+            {
+              "engName": "Abu Ghraib",
+              "krdName": "",
+              "arbName": "أبو غريب",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Al-Istiqlal District",
+          "krdName": "",
+          "arbName": "قضاء الاستقلال",
+          "subdistricts": [
+            {
+              "engName": "Al-Istiqlal",
+              "krdName": "",
+              "arbName": "الاستقلال",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Al-Mada'in District",
+          "krdName": "",
+          "arbName": "قضاء المدائن",
+          "subdistricts": [
+            {
+              "engName": "Al-Mada'in",
+              "krdName": "",
+              "arbName": "المدائن",
+              "villages": []
+            },
+            {
+              "engName": "Al-Wehdah",
+              "krdName": "",
+              "arbName": "الوحدة",
+              "villages": []
+            },
+            {
+              "engName": "Jissr Diyala",
+              "krdName": "",
+              "arbName": "جسر ديالى",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Mahmudiya District",
+          "krdName": "",
+          "arbName": "قضاء المحمودية",
+          "subdistricts": [
+            {
+              "engName": "Mahmudiya",
+              "krdName": "",
+              "arbName": "المحمودية",
+              "villages": []
+            },
+            {
+              "engName": "Latifiya",
+              "krdName": "",
+              "arbName": "اللطيفية",
+              "villages": []
+            },
+            {
+              "engName": "Yusufiyah",
+              "krdName": "",
+              "arbName": "اليوسفية",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Taji District",
+          "krdName": "",
+          "arbName": "قضاء التاجي",
+          "subdistricts": [
+            {
+              "engName": "Taji",
+              "krdName": "",
+              "arbName": "التاجي",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Al-Tarmia District",
+          "krdName": "",
+          "arbName": "قضاء الطارمية",
+          "subdistricts": [
+            {
+              "engName": "Al-Tarmia",
+              "krdName": "",
+              "arbName": "الطارمية",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Adhamiyah District",
+          "krdName": "",
+          "arbName": "قضاء الأعظمية",
+          "subdistricts": [
+            {
+              "engName": "Adhamiyah",
+              "krdName": "",
+              "arbName": "الأعظمية",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Sadr City District",
+          "krdName": "",
+          "arbName": "قضاء مدينة الصدر",
+          "subdistricts": [
+            {
+              "engName": "Sadr City",
+              "krdName": "",
+              "arbName": "مدينة الصدر",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Karadah District",
+          "krdName": "",
+          "arbName": "قضاء الكرادة",
+          "subdistricts": [
+            {
+              "engName": "Karadah",
+              "krdName": "",
+              "arbName": "الكرادة",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Karkh District",
+          "krdName": "",
+          "arbName": "قضاء الكرخ",
+          "subdistricts": [
+            {
+              "engName": "Karkh",
+              "krdName": "",
+              "arbName": "الكرخ",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Kadhimyah District",
+          "krdName": "",
+          "arbName": "قضاء الكاظمية",
+          "subdistricts": [
+            {
+              "engName": "Kadhimyah",
+              "krdName": "",
+              "arbName": "الكاظمية",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Mansour District",
+          "krdName": "",
+          "arbName": "قضاء المنصور",
+          "subdistricts": [
+            {
+              "engName": "Mansour",
+              "krdName": "",
+              "arbName": "المنصور",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Al Rashid District",
+          "krdName": "",
+          "arbName": "قضاء الرشيد",
+          "subdistricts": [
+            {
+              "engName": "Al Rashid",
+              "krdName": "",
+              "arbName": "الرشيد",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Rusafa District",
+          "krdName": "",
+          "arbName": "قضاء الرصافة",
+          "subdistricts": [
+            {
+              "engName": "Rusafa",
+              "krdName": "",
+              "arbName": "الرصافة",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "9 Nissan (New Baghdad) District",
+          "krdName": "",
+          "arbName": "قضاء ٩ نيسان (بغداد الجديدة)",
+          "subdistricts": [
+            {
+              "engName": "9 Nissan (New Baghdad)",
+              "krdName": "",
+              "arbName": "٩ نيسان (بغداد الجديدة)",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Al-Za'franiya District",
+          "krdName": "",
+          "arbName": "قضاء الزعفرانية",
+          "subdistricts": [
+            {
+              "engName": "Al-Za'franiya",
+              "krdName": "",
+              "arbName": "الزعفرانية",
+              "villages": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "engName": "Basra",
+      "krdName": "پارێزگای بەسرە",
+      "arbName": "محافظة البصرة",
+      "districts": [
+        {
+          "engName": "Abu Al-Khaseeb District",
+          "krdName": "",
+          "arbName": "قضاء أبي الخصيب",
+          "subdistricts": [
+            {
+              "engName": "Abu Al-Khaseeb",
+              "krdName": "",
+              "arbName": "أبو الخصيب",
+              "villages": []
+            },
+            {
+              "engName": "Al-Hammar",
+              "krdName": "",
+              "arbName": "الحمار",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Al-Midaina District",
+          "krdName": "",
+          "arbName": "قضاء المديّنة",
+          "subdistricts": [
+            {
+              "engName": "Al-Midaina",
+              "krdName": "",
+              "arbName": "المديّنة",
+              "villages": []
+            },
+            {
+              "engName": "Al-Suq",
+              "krdName": "",
+              "arbName": "السوق",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Al-Qurna District",
+          "krdName": "",
+          "arbName": "قضاء القرنة",
+          "subdistricts": [
+            {
+              "engName": "Al-Qurna",
+              "krdName": "",
+              "arbName": "القرنة",
+              "villages": []
+            },
+            {
+              "engName": "Al-Deir",
+              "krdName": "",
+              "arbName": "الدير",
+              "villages": []
+            },
+            {
+              "engName": "Al-Nashwa",
+              "krdName": "",
+              "arbName": "النشوة",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Al-Zubair District",
+          "krdName": "",
+          "arbName": "قضاء الزبير",
+          "subdistricts": [
+            {
+              "engName": "Al-Zubair",
+              "krdName": "",
+              "arbName": "الزبير",
+              "villages": []
+            },
+            {
+              "engName": "Safwan",
+              "krdName": "",
+              "arbName": "صفوان",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Basrah District",
+          "krdName": "",
+          "arbName": "قضاء البصرة",
+          "subdistricts": [
+            {
+              "engName": "Basrah",
+              "krdName": "",
+              "arbName": "البصرة",
+              "villages": []
+            },
+            {
+              "engName": "Shatt Al-Arab",
+              "krdName": "",
+              "arbName": "شط العرب",
+              "villages": []
+            },
+            {
+              "engName": "Al-Harithah",
+              "krdName": "",
+              "arbName": "الحارثة",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Al-Faw District",
+          "krdName": "",
+          "arbName": "قضاء الفاو",
+          "subdistricts": [
+            {
+              "engName": "Al-Faw",
+              "krdName": "",
+              "arbName": "الفاو",
+              "villages": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "engName": "Dhi Qar",
+      "krdName": "پارێزگای زی قار",
+      "arbName": "محافظة ذي قار",
+      "districts": [
+        {
+          "engName": "Al-Chibayish District",
+          "krdName": "",
+          "arbName": "قضاء الجبايش",
+          "subdistricts": [
+            {
+              "engName": "Al-Chibayish",
+              "krdName": "",
+              "arbName": "الجبايش",
+              "villages": []
+            },
+            {
+              "engName": "Al-Islah",
+              "krdName": "",
+              "arbName": "الإصلاح",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Al-Rifa'i District",
+          "krdName": "",
+          "arbName": "قضاء الرفاعي",
+          "subdistricts": [
+            {
+              "engName": "Al-Rifa'i",
+              "krdName": "",
+              "arbName": "الرفاعي",
+              "villages": []
+            },
+            {
+              "engName": "Al-Qala'a",
+              "krdName": "",
+              "arbName": "القلعة",
+              "villages": []
+            },
+            {
+              "engName": "Al-Fajr",
+              "krdName": "",
+              "arbName": "الفجر",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Al-Shatra District",
+          "krdName": "",
+          "arbName": "قضاء الشطرة",
+          "subdistricts": [
+            {
+              "engName": "Al-Shatra",
+              "krdName": "",
+              "arbName": "الشطرة",
+              "villages": []
+            },
+            {
+              "engName": "Al-Gharraf",
+              "krdName": "",
+              "arbName": "الغرف",
+              "villages": []
+            },
+            {
+              "engName": "Dhi Qar",
+              "krdName": "",
+              "arbName": "ذي قار",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Nassriya District",
+          "krdName": "",
+          "arbName": "قضاء الناصرية",
+          "subdistricts": [
+            {
+              "engName": "Nassriya",
+              "krdName": "",
+              "arbName": "الناصرية",
+              "villages": []
+            },
+            {
+              "engName": "Al-Nassir",
+              "krdName": "",
+              "arbName": "الناصر",
+              "villages": []
+            },
+            {
+              "engName": "Al-Nasr",
+              "krdName": "",
+              "arbName": "النصر",
+              "villages": []
+            },
+            {
+              "engName": "Al-Dawaya",
+              "krdName": "",
+              "arbName": "الدواية",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Suq Al-Shoyokh District",
+          "krdName": "",
+          "arbName": "قضاء سوق الشيوخ",
+          "subdistricts": [
+            {
+              "engName": "Suq Al-Shoyokh",
+              "krdName": "",
+              "arbName": "سوق الشيوخ",
+              "villages": []
+            },
+            {
+              "engName": "Al-Karmah",
+              "krdName": "",
+              "arbName": "الكرمة",
+              "villages": []
+            },
+            {
+              "engName": "Al-Fuhud",
+              "krdName": "",
+              "arbName": "الفهود",
+              "villages": []
+            },
+            {
+              "engName": "Hammar",
+              "krdName": "",
+              "arbName": "الحمّار",
+              "villages": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "engName": "Diyala",
+      "krdName": "پارێزگای دیالە",
+      "arbName": "محافظة ديالى",
+      "districts": [
+        {
+          "engName": "Al-Khalis District",
+          "krdName": "",
+          "arbName": "قضاء الخالص",
+          "subdistricts": [
+            {
+              "engName": "Al-Khalis",
+              "krdName": "",
+              "arbName": "الخالص",
+              "villages": []
+            },
+            {
+              "engName": "Al-Mansuriyah",
+              "krdName": "",
+              "arbName": "المنصورية",
+              "villages": []
+            },
+            {
+              "engName": "Al-Udaim",
+              "krdName": "",
+              "arbName": "العظيم",
+              "villages": []
+            },
+            {
+              "engName": "Deli Abbas",
+              "krdName": "",
+              "arbName": "دلي عباس",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Al-Muqdadiya District",
+          "krdName": "",
+          "arbName": "قضاء المقدادية",
+          "subdistricts": [
+            {
+              "engName": "Al-Muqdadiya",
+              "krdName": "",
+              "arbName": "المقدادية",
+              "villages": []
+            },
+            {
+              "engName": "Abbara",
+              "krdName": "",
+              "arbName": "أبّارة",
+              "villages": []
+            },
+            {
+              "engName": "Shehnabad",
+              "krdName": "",
+              "arbName": "شهربان",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Baladrooz District",
+          "krdName": "",
+          "arbName": "قضاء بعقوبة",
+          "subdistricts": [
+            {
+              "engName": "Baladrooz",
+              "krdName": "",
+              "arbName": "بلدروز",
+              "villages": []
+            },
+            {
+              "engName": "Kanan",
+              "krdName": "",
+              "arbName": "كنعان",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Ba'quba District",
+          "krdName": "",
+          "arbName": "قضاء بعقوبة",
+          "subdistricts": [
+            {
+              "engName": "Ba'quba",
+              "krdName": "",
+              "arbName": "بعقوبة",
+              "villages": []
+            },
+            {
+              "engName": "Buhriz",
+              "krdName": "",
+              "arbName": "بهارز",
+              "villages": []
+            },
+            {
+              "engName": "Jalawla",
+              "krdName": "",
+              "arbName": "جلولاء",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Khanaqin District",
+          "krdName": "",
+          "arbName": "قضاء خانقين",
+          "subdistricts": [
+            {
+              "engName": "Khanaqin",
+              "krdName": "",
+              "arbName": "خانقين",
+              "villages": []
+            },
+            {
+              "engName": "Qarato",
+              "krdName": "",
+              "arbName": "قرة تو",
+              "villages": []
+            },
+            {
+              "engName": "Mandali",
+              "krdName": "",
+              "arbName": "مندلي",
+              "villages": []
+            },
+            {
+              "engName": "Jalawla",
+              "krdName": "",
+              "arbName": "جلولاء",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Kifri District",
+          "krdName": "",
+          "arbName": "قضاء كفري",
+          "subdistricts": [
+            {
+              "engName": "Kifri",
+              "krdName": "",
+              "arbName": "كفري",
+              "villages": []
+            },
+            {
+              "engName": "Qara Tappah",
+              "krdName": "",
+              "arbName": "قره تبه",
+              "villages": []
+            },
+            {
+              "engName": "Nawjul",
+              "krdName": "",
+              "arbName": "ناوجول",
+              "villages": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "engName": "Dohuk",
+      "krdName": "پارێزگای دهۆک",
+      "arbName": "محافظة دهوك",
+      "districts": [
+        {
+          "engName": "Amadiya District",
+          "krdName": "قەزای ئامێدی",
+          "arbName": "قضاء العمادية",
+          "subdistricts": [
+            {
+              "engName": "Amadiya",
+              "krdName": "ئامێدی",
+              "arbName": "العمادية",
+              "villages": []
+            },
+            {
+              "engName": "Sarsang",
+              "krdName": "سەرسەنگ",
+              "arbName": "سرسنك",
+              "villages": []
+            },
+            {
+              "engName": "Chamanke",
+              "krdName": "چەمانکێ",
+              "arbName": "جومانكي",
+              "villages": []
+            },
+            {
+              "engName": "Bativa",
+              "krdName": "باتيفا",
+              "arbName": "باتيفا",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Dohuk District",
+          "krdName": "قەزای دهۆک",
+          "arbName": "قضاء دهوك",
+          "subdistricts": [
+            {
+              "engName": "Dohuk",
+              "krdName": "دهۆک",
+              "arbName": "دهوك",
+              "villages": []
+            },
+            {
+              "engName": "Zawita",
+              "krdName": "زاویتا",
+              "arbName": "زاويته",
+              "villages": []
+            },
+            {
+              "engName": "Mankish",
+              "krdName": "مانگیش",
+              "arbName": "مانكيش",
+              "villages": []
+            },
+            {
+              "engName": "Simele",
+              "krdName": "سیمێل",
+              "arbName": "سميل",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Zakho District",
+          "krdName": "قەزای زاخۆ",
+          "arbName": "قضاء زاخو",
+          "subdistricts": [
+            {
+              "engName": "Zakho",
+              "krdName": "زاخۆ",
+              "arbName": "زاخو",
+              "villages": []
+            },
+            {
+              "engName": "Batifa",
+              "krdName": "باتيفا",
+              "arbName": "باتيفا",
+              "villages": []
+            },
+            {
+              "engName": "Deralok",
+              "krdName": "دێرەلوک",
+              "arbName": "ديرالوك",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Akre District",
+          "krdName": "قەزای ئاکرێ",
+          "arbName": "قضاء عقرة",
+          "subdistricts": [
+            {
+              "engName": "Akre",
+              "krdName": "ئاکرێ",
+              "arbName": "عقرة",
+              "villages": []
+            },
+            {
+              "engName": "Dinarta",
+              "krdName": "دینارتە",
+              "arbName": "دينارته",
+              "villages": []
+            },
+            {
+              "engName": "Bardarash",
+              "krdName": "بەردەڕەش",
+              "arbName": "باردرش",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Shekhan District",
+          "krdName": "قەزای شێخان",
+          "arbName": "قضاء شيخان",
+          "subdistricts": [
+            {
+              "engName": "Shekhan",
+              "krdName": "شێخان",
+              "arbName": "شيخان",
+              "villages": []
+            },
+            {
+              "engName": "Ayn Sifni",
+              "krdName": "عین سيفني",
+              "arbName": "عين سفني",
+              "villages": []
+            },
+            {
+              "engName": "Zelkan",
+              "krdName": "زێلکان",
+              "arbName": "زلکان",
+              "villages": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "engName": "Erbil",
+      "krdName": "پارێزگای هەولێر",
+      "arbName": "محافظة أربيل",
+      "districts": [
+        {
+          "engName": "Erbil District",
+          "krdName": "قەزای هەولێر",
+          "arbName": "قضاء أربيل",
+          "subdistricts": [
+            {
+              "engName": "Erbil Center",
+              "krdName": "ناوەندی هەولێر",
+              "arbName": "مركز أربيل",
+              "villages": []
+            },
+            {
+              "engName": "Bahirka",
+              "krdName": "بەحرکە",
+              "arbName": "بحرکه",
+              "villages": []
+            },
+            {
+              "engName": "Qushtapa",
+              "krdName": "قوشتەپە",
+              "arbName": "قوشتبة",
+              "villages": []
+            },
+            {
+              "engName": "Shamamek",
+              "krdName": "شەمامک",
+              "arbName": "شمامك",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Choman District",
+          "krdName": "قەزای چۆمان",
+          "arbName": "قضاء چومان",
+          "subdistricts": [
+            {
+              "engName": "Choman",
+              "krdName": "چۆمان",
+              "arbName": "چومان",
+              "villages": []
+            },
+            {
+              "engName": "Haj Omran",
+              "krdName": "حاجی ئۆمەران",
+              "arbName": "حاج عمران",
+              "villages": []
+            },
+            {
+              "engName": "Smelan",
+              "krdName": "سمیلان",
+              "arbName": "سميلان",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Koisanjaq District",
+          "krdName": "قەزای کۆیە",
+          "arbName": "قضاء كوية",
+          "subdistricts": [
+            {
+              "engName": "Koisanjaq",
+              "krdName": "کۆیە",
+              "arbName": "كوية",
+              "villages": []
+            },
+            {
+              "engName": "Taqtaq",
+              "krdName": "تەقتەق",
+              "arbName": "تقتق",
+              "villages": []
+            },
+            {
+              "engName": "Shaqra",
+              "krdName": "شەقڵاوە",
+              "arbName": "شقرە",
+              "villages": []
+            },
+            {
+              "engName": "Ashti",
+              "krdName": "ئاشتی",
+              "arbName": "آشتي",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Makhmur District",
+          "krdName": "قەزای مەخموور",
+          "arbName": "قضاء مخمور",
+          "subdistricts": [
+            {
+              "engName": "Makhmur",
+              "krdName": "مەخموور",
+              "arbName": "مخمور",
+              "villages": []
+            },
+            {
+              "engName": "Kandil",
+              "krdName": "قەندیل",
+              "arbName": "قنديل",
+              "villages": []
+            },
+            {
+              "engName": "Qaraj",
+              "krdName": "قەراج",
+              "arbName": "قراج",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Mergasur District",
+          "krdName": "قەزای مێرگەسۆر",
+          "arbName": "قضاء ميركسور",
+          "subdistricts": [
+            {
+              "engName": "Mergasur",
+              "krdName": "مێرگەسۆر",
+              "arbName": "ميركسور",
+              "villages": []
+            },
+            {
+              "engName": "Barzan",
+              "krdName": "بارزان",
+              "arbName": "بارزان",
+              "villages": []
+            },
+            {
+              "engName": "Goreto",
+              "krdName": "گۆریتۆ",
+              "arbName": "گوريتو",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Shaqlawa District",
+          "krdName": "قەزای شەقڵاوە",
+          "arbName": "قضاء شقلاوة",
+          "subdistricts": [
+            {
+              "engName": "Shaqlawa",
+              "krdName": "شەقڵاوە",
+              "arbName": "شقلاوة",
+              "villages": []
+            },
+            {
+              "engName": "Hareer",
+              "krdName": "حەریر",
+              "arbName": "حرير",
+              "villages": []
+            },
+            {
+              "engName": "Salahaddin",
+              "krdName": "سەلاحەددین",
+              "arbName": "صلاح الدين",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Soran District",
+          "krdName": "قەزای سۆران",
+          "arbName": "قضاء سوران",
+          "subdistricts": [
+            {
+              "engName": "Soran",
+              "krdName": "سۆران",
+              "arbName": "سوران",
+              "villages": []
+            },
+            {
+              "engName": "Rawanduz",
+              "krdName": "ڕەواندوز",
+              "arbName": "راوندوز",
+              "villages": []
+            },
+            {
+              "engName": "Diana",
+              "krdName": "دیانا",
+              "arbName": "ديانا",
+              "villages": []
+            },
+            {
+              "engName": "Sidakan",
+              "krdName": "سیدەکان",
+              "arbName": "سيدكان",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Ankawa District",
+          "krdName": "قەزای عنکاوە",
+          "arbName": "قضاء عنكاوة",
+          "subdistricts": [
+            {
+              "engName": "Ankawa",
+              "krdName": "عنکاوە",
+              "arbName": "عنكاوة",
+              "villages": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "engName": "Halabja",
+      "krdName": "پارێزگای ھەڵەبجە",
+      "arbName": "محافظة حلبجة",
+      "districts": [
+        {
+          "engName": "Halabja District",
+          "krdName": "قەزای ھەڵەبجە",
+          "arbName": "قضاء حلبجة",
+          "subdistricts": [
+            {
+              "engName": "Halabja Center",
+              "krdName": "ناوەندی ھەڵەبجە",
+              "arbName": "مركز حلبجة",
+              "villages": []
+            },
+            {
+              "engName": "Sirwan",
+              "krdName": "سیروان",
+              "arbName": "سيروان",
+              "villages": []
+            },
+            {
+              "engName": "Byara",
+              "krdName": "بیارە",
+              "arbName": "بيارة",
+              "villages": []
+            },
+            {
+              "engName": "Khormal",
+              "krdName": "خوڕماڵ",
+              "arbName": "خورمال",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Sharazoor District",
+          "krdName": "قەزای شارەزوور",
+          "arbName": "قضاء شهرزور",
+          "subdistricts": [
+            {
+              "engName": "Sharazoor Center",
+              "krdName": "ناوەندی شارەزوور",
+              "arbName": "مركز شهرزور",
+              "villages": []
+            },
+            {
+              "engName": "Zarayan",
+              "krdName": "زارایەن",
+              "arbName": "زارايان",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Said Sadiq District",
+          "krdName": "قەزای سەید سادق",
+          "arbName": "قضاء سيد صادق",
+          "subdistricts": [
+            {
+              "engName": "Said Sadiq",
+              "krdName": "سەید سادق",
+              "arbName": "سيد صادق",
+              "villages": []
+            },
+            {
+              "engName": "Barzinja",
+              "krdName": "بەرزنجە",
+              "arbName": "برزنجة",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Penjwin District",
+          "krdName": "قەزای پێنجوێن",
+          "arbName": "قضاء بنجوين",
+          "subdistricts": [
+            {
+              "engName": "Penjwin",
+              "krdName": "پێنجوێن",
+              "arbName": "بنجوين",
+              "villages": []
+            },
+            {
+              "engName": "Garmik",
+              "krdName": "گۆڕمیک",
+              "arbName": "گرمك",
+              "villages": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "engName": "Karbala",
+      "krdName": "پارێزگای کەربەلا",
+      "arbName": "محافظة كربلاء",
+      "districts": [
+        {
+          "engName": "Ain Al-Tamur District",
+          "krdName": "",
+          "arbName": "قضاء عين التمر",
+          "subdistricts": [
+            {
+              "engName": "Ain Al-Tamur",
+              "krdName": "",
+              "arbName": "عين التمر",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Al-Hindiya District",
+          "krdName": "",
+          "arbName": "قضاء الهندية",
+          "subdistricts": [
+            {
+              "engName": "Al-Hindiya",
+              "krdName": "",
+              "arbName": "الهندية",
+              "villages": []
+            },
+            {
+              "engName": "Al-Khairat",
+              "krdName": "",
+              "arbName": "الخيرات",
+              "villages": []
+            },
+            {
+              "engName": "Jadwal Al-Gharbi",
+              "krdName": "",
+              "arbName": "جدول الغربي",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Karbala District",
+          "krdName": "",
+          "arbName": "قضاء كربلاء",
+          "subdistricts": [
+            {
+              "engName": "Karbala",
+              "krdName": "",
+              "arbName": "كربلاء",
+              "villages": []
+            },
+            {
+              "engName": "Al-Hurr",
+              "krdName": "",
+              "arbName": "الحر",
+              "villages": []
+            },
+            {
+              "engName": "Al-Jadawil",
+              "krdName": "",
+              "arbName": "الجداول",
+              "villages": []
+            },
+            {
+              "engName": "Al-Hussainiyah",
+              "krdName": "",
+              "arbName": "الحسينية",
+              "villages": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "engName": "Kirkuk",
+      "krdName": "پارێزگای کەرکووک",
+      "arbName": "محافظة كركوك",
+      "districts": [
+        {
+          "engName": "Al-Hawiga District",
+          "krdName": "",
+          "arbName": "قضاء الحويجة",
+          "subdistricts": [
+            {
+              "engName": "Al-Hawiga",
+              "krdName": "",
+              "arbName": "الحويجة",
+              "villages": []
+            },
+            {
+              "engName": "Al-Riyadh",
+              "krdName": "",
+              "arbName": "الرياض",
+              "villages": []
+            },
+            {
+              "engName": "Al-Zab",
+              "krdName": "",
+              "arbName": "الزاب",
+              "villages": []
+            },
+            {
+              "engName": "Al-Abbasi",
+              "krdName": "",
+              "arbName": "العباسي",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Daquq District",
+          "krdName": "",
+          "arbName": "قضاء داقوق",
+          "subdistricts": [
+            {
+              "engName": "Daquq",
+              "krdName": "",
+              "arbName": "داقوق",
+              "villages": []
+            },
+            {
+              "engName": "Rashad",
+              "krdName": "",
+              "arbName": "الرش",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Kirkuk District",
+          "krdName": "",
+          "arbName": "قضاء كركوك",
+          "subdistricts": [
+            {
+              "engName": "Kirkuk",
+              "krdName": "",
+              "arbName": "كركوك",
+              "villages": []
+            },
+            {
+              "engName": "Al-Rashad",
+              "krdName": "",
+              "arbName": "الرش",
+              "villages": []
+            },
+            {
+              "engName": "Al-Multaqa",
+              "krdName": "",
+              "arbName": "الملتقى",
+              "villages": []
+            },
+            {
+              "engName": "Qara Hanjir",
+              "krdName": "",
+              "arbName": "قرة هنجير",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Dibis District",
+          "krdName": "",
+          "arbName": "قضاء الدبس",
+          "subdistricts": [
+            {
+              "engName": "Dibis",
+              "krdName": "",
+              "arbName": "الدبس",
+              "villages": []
+            },
+            {
+              "engName": "Sargaran",
+              "krdName": "",
+              "arbName": "سركاران",
+              "villages": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "engName": "Maysan",
+      "krdName": "پارێزگای میسان",
+      "arbName": "محافظة ميسان",
+      "districts": [
+        {
+          "engName": "Ali Al-Gharbi District",
+          "krdName": "",
+          "arbName": "قضاء علي الغربي",
+          "subdistricts": [
+            {
+              "engName": "Ali Al-Gharbi",
+              "krdName": "",
+              "arbName": "علي الغربي",
+              "villages": []
+            },
+            {
+              "engName": "Qal'at Saleh",
+              "krdName": "",
+              "arbName": "قلعة صالح",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Al-Kahla District",
+          "krdName": "",
+          "arbName": "قضاء الكحلاء",
+          "subdistricts": [
+            {
+              "engName": "Al-Kahla",
+              "krdName": "",
+              "arbName": "الكحلاء",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Al-Maimouna District",
+          "krdName": "",
+          "arbName": "قضاء الميمونة",
+          "subdistricts": [
+            {
+              "engName": "Al-Maimouna",
+              "krdName": "",
+              "arbName": "الميمونة",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Al-Mejar Al-Kabi District",
+          "krdName": "",
+          "arbName": "قضاء المجر الكبير",
+          "subdistricts": [
+            {
+              "engName": "Al-Mejar Al-Kabi",
+              "krdName": "",
+              "arbName": "المجر الكبير",
+              "villages": []
+            },
+            {
+              "engName": "Al-Mishrah",
+              "krdName": "",
+              "arbName": "المشرح",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Amarah District",
+          "krdName": "",
+          "arbName": "قضاء العمارة",
+          "subdistricts": [
+            {
+              "engName": "Amarah",
+              "krdName": "",
+              "arbName": "العمارة",
+              "villages": []
+            },
+            {
+              "engName": "Al-Adel",
+              "krdName": "",
+              "arbName": "العادل",
+              "villages": []
+            },
+            {
+              "engName": "Al-Sayada",
+              "krdName": "",
+              "arbName": "الصيادة",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Qal'at Saleh District",
+          "krdName": "",
+          "arbName": "قضاء قلعة صالح",
+          "subdistricts": [
+            {
+              "engName": "Qal'at Saleh",
+              "krdName": "",
+              "arbName": "قلعة صالح",
+              "villages": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "engName": "Muthanna",
+      "krdName": "پارێزگای موسەننا",
+      "arbName": "محافظة المثنى",
+      "districts": [
+        {
+          "engName": "Al-Khidhir District",
+          "krdName": "",
+          "arbName": "قضاء الخضر",
+          "subdistricts": [
+            {
+              "engName": "Al-Khidhir",
+              "krdName": "",
+              "arbName": "الخضر",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Al-Rumaitha District",
+          "krdName": "",
+          "arbName": "قضاء الرميثة",
+          "subdistricts": [
+            {
+              "engName": "Al-Rumaitha",
+              "krdName": "",
+              "arbName": "الرميثة",
+              "villages": []
+            },
+            {
+              "engName": "Al-Hammad",
+              "krdName": "",
+              "arbName": "الحماد",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Al-Salman District",
+          "krdName": "",
+          "arbName": "قضاء السلمان",
+          "subdistricts": [
+            {
+              "engName": "Al-Salman",
+              "krdName": "",
+              "arbName": "السلمان",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Al-Samawa District",
+          "krdName": "",
+          "arbName": "قضاء السماوة",
+          "subdistricts": [
+            {
+              "engName": "Al-Samawa",
+              "krdName": "",
+              "arbName": "السماوة",
+              "villages": []
+            },
+            {
+              "engName": "Al-Warka",
+              "krdName": "",
+              "arbName": "الوركاء",
+              "villages": []
+            },
+            {
+              "engName": "Al-Dajaj",
+              "krdName": "",
+              "arbName": "الدجاج",
+              "villages": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "engName": "Najaf",
+      "krdName": "پارێزگای نەجەف",
+      "arbName": "محافظة النجف",
+      "districts": [
+        {
+          "engName": "Al-Manathera District",
+          "krdName": "",
+          "arbName": "قضاء المناذرة",
+          "subdistricts": [
+            {
+              "engName": "Al-Manathera",
+              "krdName": "",
+              "arbName": "المناذرة",
+              "villages": []
+            },
+            {
+              "engName": "Al-Hirah",
+              "krdName": "",
+              "arbName": "الحيرة",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Kufa District",
+          "krdName": "",
+          "arbName": "قضاء الكوفة",
+          "subdistricts": [
+            {
+              "engName": "Kufa",
+              "krdName": "",
+              "arbName": "الكوفة",
+              "villages": []
+            },
+            {
+              "engName": "Al-Abbas",
+              "krdName": "",
+              "arbName": "العباس",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Najaf District",
+          "krdName": "",
+          "arbName": "قضاء النجف",
+          "subdistricts": [
+            {
+              "engName": "Najaf",
+              "krdName": "",
+              "arbName": "النجف",
+              "villages": []
+            },
+            {
+              "engName": "Al-Meshkhab",
+              "krdName": "",
+              "arbName": "المشخاب",
+              "villages": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "engName": "Nineveh",
+      "krdName": "پارێزگای نەینەوا",
+      "arbName": "محافظة نينوى",
+      "districts": [
+        {
+          "engName": "Al-Ba'aj District",
+          "krdName": "",
+          "arbName": "قضاء البعاج",
+          "subdistricts": [
+            {
+              "engName": "Al-Ba'aj",
+              "krdName": "",
+              "arbName": "البعاج",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Al-Hamdaniya District",
+          "krdName": "",
+          "arbName": "قضاء الحمدانية",
+          "subdistricts": [
+            {
+              "engName": "Bakhdida (Qaraqosh)",
+              "krdName": "",
+              "arbName": "بغديدا (قره قوش)",
+              "villages": []
+            },
+            {
+              "engName": "Bartella",
+              "krdName": "",
+              "arbName": "برطلة",
+              "villages": []
+            },
+            {
+              "engName": "Karamlesh",
+              "krdName": "",
+              "arbName": "كرمليس",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Hatra District",
+          "krdName": "",
+          "arbName": "قضاء الحضر",
+          "subdistricts": [
+            {
+              "engName": "Hatra",
+              "krdName": "",
+              "arbName": "الحضر",
+              "villages": []
+            },
+            {
+              "engName": "Al-Shura",
+              "krdName": "",
+              "arbName": "الشورة",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Mosul District",
+          "krdName": "",
+          "arbName": "قضاء الموصل",
+          "subdistricts": [
+            {
+              "engName": "Mosul",
+              "krdName": "",
+              "arbName": "الموصل",
+              "villages": []
+            },
+            {
+              "engName": "Al-Kaysar",
+              "krdName": "",
+              "arbName": "القيارة",
+              "villages": []
+            },
+            {
+              "engName": "Hamam al-Alil",
+              "krdName": "",
+              "arbName": "حمام العليل",
+              "villages": []
+            },
+            {
+              "engName": "Al-Shikhan",
+              "krdName": "",
+              "arbName": "الشيخان",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Sinjar District",
+          "krdName": "",
+          "arbName": "قضاء سنجار",
+          "subdistricts": [
+            {
+              "engName": "Sinjar",
+              "krdName": "",
+              "arbName": "سنجار",
+              "villages": []
+            },
+            {
+              "engName": "Al-Qayrawan",
+              "krdName": "",
+              "arbName": "القيروان",
+              "villages": []
+            },
+            {
+              "engName": "Al-Shemal",
+              "krdName": "",
+              "arbName": "الشمال",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Tel Afar District",
+          "krdName": "",
+          "arbName": "قضاء تلعفر",
+          "subdistricts": [
+            {
+              "engName": "Tel Afar",
+              "krdName": "",
+              "arbName": "تلعفر",
+              "villages": []
+            },
+            {
+              "engName": "Zummar",
+              "krdName": "",
+              "arbName": "زمار",
+              "villages": []
+            },
+            {
+              "engName": "Al-Ayadiyah",
+              "krdName": "",
+              "arbName": "العياضية",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Tel Keppe District",
+          "krdName": "",
+          "arbName": "قضاء تلكيف",
+          "subdistricts": [
+            {
+              "engName": "Tel Keppe",
+              "krdName": "",
+              "arbName": "تلكيف",
+              "villages": []
+            },
+            {
+              "engName": "Bashiqa",
+              "krdName": "",
+              "arbName": "بعشيقة",
+              "villages": []
+            },
+            {
+              "engName": "Al-Fadhiliyah",
+              "krdName": "",
+              "arbName": "الفاضلية",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Akre District",
+          "krdName": "",
+          "arbName": "قضاء عقرة",
+          "subdistricts": [
+            {
+              "engName": "Akre",
+              "krdName": "",
+              "arbName": "عقرة",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Shekhan District",
+          "krdName": "",
+          "arbName": "قضاء شيخان",
+          "subdistricts": [
+            {
+              "engName": "Shekhan",
+              "krdName": "",
+              "arbName": "شيخان",
+              "villages": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "engName": "Qadisiyyah",
+      "krdName": "پارێزگای قادسیە",
+      "arbName": "محافظة القادسية",
+      "districts": [
+        {
+          "engName": "Afaq District",
+          "krdName": "",
+          "arbName": "قضاء عفك",
+          "subdistricts": [
+            {
+              "engName": "Afaq",
+              "krdName": "",
+              "arbName": "عفك",
+              "villages": []
+            },
+            {
+              "engName": "Al-Badair",
+              "krdName": "",
+              "arbName": "البدير",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Al-Shamiya District",
+          "krdName": "",
+          "arbName": "قضاء الشامية",
+          "subdistricts": [
+            {
+              "engName": "Al-Shamiya",
+              "krdName": "",
+              "arbName": "الشامية",
+              "villages": []
+            },
+            {
+              "engName": "Ghammas",
+              "krdName": "",
+              "arbName": "غماس",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Diwaniya District",
+          "krdName": "",
+          "arbName": "قضاء الديوانية",
+          "subdistricts": [
+            {
+              "engName": "Diwaniya",
+              "krdName": "",
+              "arbName": "الديوانية",
+              "villages": []
+            },
+            {
+              "engName": "Sumer",
+              "krdName": "",
+              "arbName": "سومر",
+              "villages": []
+            },
+            {
+              "engName": "Al-Qadisiyah",
+              "krdName": "",
+              "arbName": "القادسية",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Hamza District",
+          "krdName": "",
+          "arbName": "قضاء الحمزة",
+          "subdistricts": [
+            {
+              "engName": "Hamza",
+              "krdName": "",
+              "arbName": "الحمزة",
+              "villages": []
+            },
+            {
+              "engName": "Al-Sunniyah",
+              "krdName": "",
+              "arbName": "السنية",
+              "villages": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "engName": "Salah al-Din",
+      "krdName": "پارێزگای سەڵاحەددین",
+      "arbName": "محافظة صلاح الدين",
+      "districts": [
+        {
+          "engName": "Al-Daur District",
+          "krdName": "",
+          "arbName": "قضاء الدور",
+          "subdistricts": [
+            {
+              "engName": "Al-Daur",
+              "krdName": "",
+              "arbName": "الدور",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Al-Shirqat District",
+          "krdName": "",
+          "arbName": "قضاء الشرقاط",
+          "subdistricts": [
+            {
+              "engName": "Al-Shirqat",
+              "krdName": "",
+              "arbName": "الشرقاط",
+              "villages": []
+            },
+            {
+              "engName": "Al-Hadhr",
+              "krdName": "",
+              "arbName": "الحضر",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Baiji District",
+          "krdName": "",
+          "arbName": "قضاء بيجي",
+          "subdistricts": [
+            {
+              "engName": "Baiji",
+              "krdName": "",
+              "arbName": "بيجي",
+              "villages": []
+            },
+            {
+              "engName": "Al-Siniyah",
+              "krdName": "",
+              "arbName": "الصينية",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Balad District",
+          "krdName": "",
+          "arbName": "قضاء بلد",
+          "subdistricts": [
+            {
+              "engName": "Balad",
+              "krdName": "",
+              "arbName": "بلد",
+              "villages": []
+            },
+            {
+              "engName": "Al-Dujail",
+              "krdName": "",
+              "arbName": "الدجيل",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Samarra District",
+          "krdName": "",
+          "arbName": "قضاء سامراء",
+          "subdistricts": [
+            {
+              "engName": "Samarra",
+              "krdName": "",
+              "arbName": "سامراء",
+              "villages": []
+            },
+            {
+              "engName": "Al-Dur",
+              "krdName": "",
+              "arbName": "الدور",
+              "villages": []
+            },
+            {
+              "engName": "Al-Ishaqi",
+              "krdName": "",
+              "arbName": "الاسحاقي",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Tikrit District",
+          "krdName": "",
+          "arbName": "قضاء تكريت",
+          "subdistricts": [
+            {
+              "engName": "Tikrit",
+              "krdName": "",
+              "arbName": "تكريت",
+              "villages": []
+            },
+            {
+              "engName": "Al-Alam",
+              "krdName": "",
+              "arbName": "العلم",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Tooz District",
+          "krdName": "",
+          "arbName": "قضاء طوز",
+          "subdistricts": [
+            {
+              "engName": "Tuz Khurmatu",
+              "krdName": "",
+              "arbName": "طوز خورماتو",
+              "villages": []
+            },
+            {
+              "engName": "Amerli",
+              "krdName": "",
+              "arbName": "آمرلي",
+              "villages": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "engName": "Sulaymaniyah",
+      "krdName": "پارێزگای سلێمانی",
+      "arbName": "محافظة السليمانية",
+      "districts": [
+        {
+          "engName": "Chamchamal District",
+          "krdName": "قەزای چەمچەماڵ",
+          "arbName": "قضاء جمجمال",
+          "subdistricts": [
+            {
+              "engName": "Chamchamal",
+              "krdName": "چەمچەماڵ",
+              "arbName": "جمجمال",
+              "villages": []
+            },
+            {
+              "engName": "Shorish",
+              "krdName": "شۆڕش",
+              "arbName": "شورى",
+              "villages": []
+            },
+            {
+              "engName": "Sangaw",
+              "krdName": "سەنگاو",
+              "arbName": "سنكاو",
+              "villages": []
+            },
+            {
+              "engName": "Takia",
+              "krdName": "تەکێ",
+              "arbName": "تكي",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Darbandikhan District",
+          "krdName": "قەزای دەربەندیخان",
+          "arbName": "قضاء دربندخان",
+          "subdistricts": [
+            {
+              "engName": "Darbandikhan",
+              "krdName": "دەربەندیخان",
+              "arbName": "دربندخان",
+              "villages": []
+            },
+            {
+              "engName": "Bamo",
+              "krdName": "بامۆ",
+              "arbName": "بامو",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Dokan District",
+          "krdName": "قەزای دوکان",
+          "arbName": "قضاء دوكان",
+          "subdistricts": [
+            {
+              "engName": "Dokan",
+              "krdName": "دوکان",
+              "arbName": "دوكان",
+              "villages": []
+            },
+            {
+              "engName": "Surdash",
+              "krdName": "سەردەش",
+              "arbName": "سردش",
+              "villages": []
+            },
+            {
+              "engName": "Khidran",
+              "krdName": "خدران",
+              "arbName": "خدران",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Kalar District",
+          "krdName": "قەزای کەلار",
+          "arbName": "قضاء كلار",
+          "subdistricts": [
+            {
+              "engName": "Kalar",
+              "krdName": "کەلار",
+              "arbName": "كلار",
+              "villages": []
+            },
+            {
+              "engName": "Rizgari",
+              "krdName": "رزگاری",
+              "arbName": "رزكاري",
+              "villages": []
+            },
+            {
+              "engName": "Nawjul",
+              "krdName": "ناوجول",
+              "arbName": "ناوجول",
+              "villages": []
+            },
+            {
+              "engName": "Kifri",
+              "krdName": "کفری",
+              "arbName": "كفري",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Pshdar District",
+          "krdName": "قەزای پشدەر",
+          "arbName": "قضاء بشدر",
+          "subdistricts": [
+            {
+              "engName": "Qaladiza",
+              "krdName": "قەڵادزێ",
+              "arbName": "قلعة دزه",
+              "villages": []
+            },
+            {
+              "engName": "Hero",
+              "krdName": "هێرۆ",
+              "arbName": "هيرو",
+              "villages": []
+            },
+            {
+              "engName": "Zharawa",
+              "krdName": "ژاراوا",
+              "arbName": "زاراوا",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Rania District",
+          "krdName": "قەزای ڕانیە",
+          "arbName": "قضاء رانية",
+          "subdistricts": [
+            {
+              "engName": "Rania",
+              "krdName": "ڕانیە",
+              "arbName": "رانية",
+              "villages": []
+            },
+            {
+              "engName": "Baitwata",
+              "krdName": "بیتواتە",
+              "arbName": "بيتو",
+              "villages": []
+            },
+            {
+              "engName": "Hajiawa",
+              "krdName": "حاجیاوا",
+              "arbName": "حاجي اوا",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Sharbazher District",
+          "krdName": "قەزای شارباژێڕ",
+          "arbName": "قضاء شاربازير",
+          "subdistricts": [
+            {
+              "engName": "Sharbazher",
+              "krdName": "شارباژێڕ",
+              "arbName": "شاربازير",
+              "villages": []
+            },
+            {
+              "engName": "Choarta",
+              "krdName": "چوارتا",
+              "arbName": "جوارته",
+              "villages": []
+            },
+            {
+              "engName": "Mawat",
+              "krdName": "ماوەت",
+              "arbName": "ماوت",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Sulaymaniya District",
+          "krdName": "قەزای سلێمانی",
+          "arbName": "قضاء السليمانية",
+          "subdistricts": [
+            {
+              "engName": "Sulaymaniya Center",
+              "krdName": "ناوەندی سلێمانی",
+              "arbName": "مركز السليمانية",
+              "villages": []
+            },
+            {
+              "engName": "Bakrajo",
+              "krdName": "بکرەجۆ",
+              "arbName": "بكره جو",
+              "villages": []
+            },
+            {
+              "engName": "Bazian",
+              "krdName": "بازیان",
+              "arbName": "بازيان",
+              "villages": []
+            },
+            {
+              "engName": "Tasluja",
+              "krdName": "تاسلوجە",
+              "arbName": "تاسلوجة",
+              "villages": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "engName": "Wasit",
+      "krdName": "پارێزگای واسیت",
+      "arbName": "محافظة واسط",
+      "districts": [
+        {
+          "engName": "Al-Aziziyah District",
+          "krdName": "",
+          "arbName": "قضاء العزيزية",
+          "subdistricts": [
+            {
+              "engName": "Al-Aziziyah",
+              "krdName": "",
+              "arbName": "العزيزية",
+              "villages": []
+            },
+            {
+              "engName": "Al-Zubaidiya",
+              "krdName": "",
+              "arbName": "الزبيدية",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Al-Hai District",
+          "krdName": "",
+          "arbName": "قضاء الحي",
+          "subdistricts": [
+            {
+              "engName": "Al-Hai",
+              "krdName": "",
+              "arbName": "الحي",
+              "villages": []
+            },
+            {
+              "engName": "Al-Ahrar",
+              "krdName": "",
+              "arbName": "الأحرار",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Al-Na'maniya District",
+          "krdName": "",
+          "arbName": "قضاء النعمانية",
+          "subdistricts": [
+            {
+              "engName": "Al-Na'maniya",
+              "krdName": "",
+              "arbName": "النعمانية",
+              "villages": []
+            },
+            {
+              "engName": "Al-Gharbi",
+              "krdName": "",
+              "arbName": "الغربي",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Al-Suwaira District",
+          "krdName": "",
+          "arbName": "قضاء الصويرة",
+          "subdistricts": [
+            {
+              "engName": "Al-Suwaira",
+              "krdName": "",
+              "arbName": "الصويرة",
+              "villages": []
+            },
+            {
+              "engName": "Al-Zubaydi",
+              "krdName": "",
+              "arbName": "الزبيدي",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Badra District",
+          "krdName": "",
+          "arbName": "قضاء بدرة",
+          "subdistricts": [
+            {
+              "engName": "Badra",
+              "krdName": "",
+              "arbName": "بدرة",
+              "villages": []
+            },
+            {
+              "engName": "Jassan",
+              "krdName": "",
+              "arbName": "جصان",
+              "villages": []
+            }
+          ]
+        },
+        {
+          "engName": "Kut District",
+          "krdName": "",
+          "arbName": "قضاء الكوت",
+          "subdistricts": [
+            {
+              "engName": "Kut",
+              "krdName": "",
+              "arbName": "الكوت",
+              "villages": []
+            },
+            {
+              "engName": "Al-Daboni",
+              "krdName": "",
+              "arbName": "الدبوني",
+              "villages": []
+            },
+            {
+              "engName": "Al-Zab",
+              "krdName": "",
+              "arbName": "الزبيدية",
+              "villages": []
+            },
+            {
+              "engName": "Al-Imam",
+              "krdName": "",
+              "arbName": "الإمام",
+              "villages": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
