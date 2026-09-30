@@ -1,0 +1,824 @@
+{
+  "governorates": [
+    {
+      "arb": "البصرة",
+      "districts": [
+        {
+          "arb": "أبو الخصيب",
+          "eng": "Abu Al-Khaseeb",
+          "kur": "",
+          "notes": "One subdistrict (السيبة) confirmed by ar.wiki قضاء أبي الخصيب article.",
+          "subdistricts": [
+            {
+              "arb": "السيبة",
+              "eng": "As-Siba",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "الدير",
+          "eng": "Ad-Dair",
+          "kur": "",
+          "notes": "Elevated from a subdistrict of Al-Qurna to a district; no formal نواحي verified. ar.wiki الدير (العراق) lists only villages/مقاطعات (e.g. الشافي، الزوين). A 2023 stats report (via basrawe) names الشافي and المصطفى (الزوين) as attached units, not formal subdistricts.",
+          "subdistricts": []
+        },
+        {
+          "arb": "البصرة",
+          "eng": "Basra",
+          "kur": "",
+          "notes": "No subdistricts since ناحية الهارثة was elevated to an independent district (13 Nov 2018); consists only of مركز قضاء البصرة.",
+          "subdistricts": []
+        },
+        {
+          "arb": "الفاو",
+          "eng": "Al-Faw",
+          "kur": "",
+          "notes": "ar.wiki الفاو (العراق) (recently updated) states the district is divided into three نواحي: الفاو، البحار، الخليج العربي. Caveat: official stats (citypopulation.de) track only مركز الفاو, and a 2023 stats report lists only مركز الفاو — the subdistrict status of البحار/الخليج العربي may reflect older or lagging official data.",
+          "subdistricts": [
+            {
+              "arb": "الفاو",
+              "eng": "Al-Faw",
+              "kur": ""
+            },
+            {
+              "arb": "البحار",
+              "eng": "Al-Bihar",
+              "kur": ""
+            },
+            {
+              "arb": "الخليج العربي",
+              "eng": "Al-Khalij Al-Arabi",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "الهارثة",
+          "eng": "Al-Haritha",
+          "kur": "",
+          "notes": "Elevated from a ناحية of Basra district to an independent district on 13 Nov 2018; no formal subdistricts (ar.wiki الهارثة lists only كرمة علي and الطاقة as areas).",
+          "subdistricts": []
+        },
+        {
+          "arb": "المدينة",
+          "eng": "Al-Midaina",
+          "kur": "",
+          "notes": "One subdistrict: ناحية عز الدين سليم (الهوير) per ar.wiki قضاء المدينة. Its former subdistrict ناحية طلحة/الإمام الصادق was elevated to an independent district (~2019).",
+          "subdistricts": [
+            {
+              "arb": "عز الدين سليم",
+              "eng": "Izz ad-Din Salim",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "القرنة",
+          "eng": "Al-Qurna",
+          "kur": "",
+          "notes": "One subdistrict: ناحية الإمام القائم (formerly الثغر). ar.wiki قضاء القرنة gives the 2017/current split: مركز قضاء القرنة + ناحية الإمام القائم. Official stats still list it under the old name الثغر. ناحية الدير was split off as its own district.",
+          "subdistricts": [
+            {
+              "arb": "الإمام القائم",
+              "eng": "Al-Imam Al-Qaim",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "الصادق",
+          "eng": "As-Sadiq",
+          "kur": "",
+          "notes": "Formerly ناحية طلحة of Al-Midaina district; elevated to independent district ~2019 (ar.wiki article titled قضاء الإمام الصادق). No subdistricts; 2024 census population 113,517. A 2025 Basra University study notes Ministry of Planning/Health data still aggregates it under Al-Midaina.",
+          "subdistricts": []
+        },
+        {
+          "arb": "الزبير",
+          "eng": "Al-Zubair",
+          "kur": "",
+          "notes": "ناحية سفوان elevated to district (21 Jan 2024); ناحية خور الزبير created the same day (Jan 2024). Remaining subdistricts: أم قصر and خور الزبير.",
+          "subdistricts": [
+            {
+              "arb": "أم قصر",
+              "eng": "Umm Qasr",
+              "kur": ""
+            },
+            {
+              "arb": "خور الزبير",
+              "eng": "Khor Az-Zubair",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "سفوان",
+          "eng": "Safwan",
+          "kur": "",
+          "notes": "Formerly ناحية سفوان of Al-Zubair district; elevated to district 21 Jan 2024 (Minister of Planning approval, ar.wiki قضاء سفوان). Comprises 11 مقاطعة; no formal subdistricts.",
+          "subdistricts": []
+        },
+        {
+          "arb": "شط العرب",
+          "eng": "Shatt Al-Arab",
+          "kur": "",
+          "notes": "Five نواحي per current ar.wiki قضاء شط العرب infobox: التنومة، الفيحاء، النشوة، الكباسي، عتبة (ناحية الفيحاء independently confirmed as a ناحية of the district). Official stats only track مركز شط العرب + النشوة; التنومة/الفيحاء/الكباسي/عتبة appear to be newer additions.",
+          "subdistricts": [
+            {
+              "arb": "التنومة",
+              "eng": "At-Tanuma",
+              "kur": ""
+            },
+            {
+              "arb": "الفيحاء",
+              "eng": "Al-Fayha",
+              "kur": ""
+            },
+            {
+              "arb": "النشوة",
+              "eng": "An-Nashwa",
+              "kur": ""
+            },
+            {
+              "arb": "الكباسي",
+              "eng": "Al-Kabasi",
+              "kur": ""
+            },
+            {
+              "arb": "عتبة",
+              "eng": "Ataba",
+              "kur": ""
+            }
+          ]
+        }
+      ],
+      "eng": "Basra",
+      "kur": "بەسرە",
+      "notes": "District list follows the most current official scheme (11 districts) per citypopulation.de's 2024-census data and the ar.wiki 'أقضية العراق' list (10; missing only Aṣ-Ṣādiq). English Wikipedia's Basra Governorate article is outdated: it lists only 8 districts (missing Al-Haritha, As-Sadiq, Safwan) and ar.wiki's محافظة البصرة article still lists 9. Subdistricts verified from current ar.wiki district articles and confirmed where possible: As-Siba (Abu Al-Khaseeb), At-Tanuma/Al-Fayha/An-Nashwa/Al-Kabasi/Ataba (Shatt Al-Arab), Al-Imam Al-Qaim (Al-Qurna), Izz ad-Din Salim (Al-Midaina), Umm Qasr + Khor Az-Zubayr (Al-Zubair), Al-Faw + Al-Bihar + Al-Khalij Al-Arabi (Al-Faw). Official stats (citypopulation.de subdistrict table, still the older scheme) agree on As-Siba, An-Nashwa, Ath-Thughir (=Al-Imam Al-Qaim), Izz ad-Din Salim and Umm Qasr, but do not track the newer subdistricts (Khor Az-Zubayr, Al-Fayha, At-Tanuma, Al-Kabasi, Ataba) nor the Faw subdistricts البحار/الخليج العربي — possible lag in official data; flagged per district."
+    },
+    {
+      "arb": "ميسان",
+      "districts": [
+        {
+          "arb": "العمارة",
+          "eng": "Amara",
+          "kur": "",
+          "notes": "Kumayt was its only nahiya until its 2018 elevation to a district; Amara now lists only its center.",
+          "subdistricts": [
+            {
+              "arb": "مركز قضاء العمارة",
+              "eng": "Amara Central",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "علي الغربي",
+          "eng": "Ali Al-Gharbi",
+          "kur": "",
+          "notes": "",
+          "subdistricts": [
+            {
+              "arb": "مركز قضاء علي الغربي",
+              "eng": "Ali Al-Gharbi Central",
+              "kur": ""
+            },
+            {
+              "arb": "علي الشرقي",
+              "eng": "Ali Al-Sharqi",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "الكحلاء",
+          "eng": "Al-Kahla",
+          "kur": "",
+          "notes": "",
+          "subdistricts": [
+            {
+              "arb": "مركز قضاء الكحلاء",
+              "eng": "Al-Kahla Central",
+              "kur": ""
+            },
+            {
+              "arb": "المشرح",
+              "eng": "Al-Musharrah",
+              "kur": ""
+            },
+            {
+              "arb": "بني هاشم",
+              "eng": "Bani Hashem",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "الميمونة",
+          "eng": "Al-Maimouna",
+          "kur": "",
+          "notes": "",
+          "subdistricts": [
+            {
+              "arb": "مركز قضاء الميمونة",
+              "eng": "Al-Maimouna Central",
+              "kur": ""
+            },
+            {
+              "arb": "السلام",
+              "eng": "Al-Salam",
+              "kur": ""
+            },
+            {
+              "arb": "السيد أحمد الرفاعي",
+              "eng": "Sayyid Ahmed Al-Rifai",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "المجر الكبير",
+          "eng": "Al-Majar Al-Kabir",
+          "kur": "",
+          "notes": "",
+          "subdistricts": [
+            {
+              "arb": "مركز قضاء المجر الكبير",
+              "eng": "Al-Majar Al-Kabir Central",
+              "kur": ""
+            },
+            {
+              "arb": "العدل",
+              "eng": "Al-Adl",
+              "kur": ""
+            },
+            {
+              "arb": "الخير",
+              "eng": "Al-Khair",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "قلعة صالح",
+          "eng": "Qalat Saleh",
+          "kur": "",
+          "notes": "",
+          "subdistricts": [
+            {
+              "arb": "مركز قضاء قلعة صالح",
+              "eng": "Qalat Saleh Central",
+              "kur": ""
+            },
+            {
+              "arb": "العزير",
+              "eng": "Al-Uzair",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "كميت",
+          "eng": "Kumayt",
+          "kur": "",
+          "notes": "Elevated from a nahiya of Amara district to a district in 2018 (governor's office announcement; confirmed by citypopulation.de 2024 census district table and ar.wikipedia). Internal nahiya structure unverified; only the district center is listed.",
+          "subdistricts": [
+            {
+              "arb": "مركز قضاء كميت",
+              "eng": "Kumayt Central",
+              "kur": ""
+            }
+          ]
+        }
+      ],
+      "eng": "Maysan",
+      "kur": "میسان",
+      "notes": "District count discrepancy: English Wikipedia ('Maysan Governorate', 'Districts of Iraq') lists 6 districts, but citypopulation.de's admin table (2024 census), ar.wikipedia's Kumayt article, and the 2018 Maysan governor's office announcement all confirm Kumayt (كميت) was elevated from a nahiya of Amara district to its own district (قضاء كميت), giving 7 districts. Using the most current (7-district) list. Subdistrict Arabic spellings verified against ar.wikipedia 'قائمة نواحي العراق'. Subdistrict lists include the district center (مركز قضاء), which official Iraqi stats count as a second-level unit alongside nahiyas; 8 nahiyas proper + 7 centers = 15 entries. In 2018 Maysan also created two new nahiyas (البتيرة، نهر سعد) but no source I could access places them under a specific district, so they are omitted. Kumayt's internal nahiya structure could not be verified (only its center is listed)."
+    },
+    {
+      "arb": "ذي قار",
+      "districts": [
+        {
+          "arb": "الناصرية",
+          "eng": "Nasiriyah",
+          "kur": "",
+          "notes": "Provincial capital. Its former subdistricts al-Batha'a (2019), Sayyid Dakhil (2018) and al-Islah (2014) were elevated to districts; only Nahiya Ur remains (confirmed by al-Batha'a's 2019 border description: 'nahiya Ur in Qada'a al-Nasiriyah').",
+          "subdistricts": [
+            {
+              "arb": "أور",
+              "eng": "Ur",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "الشطرة",
+          "eng": "Shatrah",
+          "kur": "",
+          "notes": "All four of its former subdistricts — al-Dawaya, al-Gharraf, al-Nasr and al-Fajr — have been elevated to districts (2018–2019); only the district centre remains.",
+          "subdistricts": []
+        },
+        {
+          "arb": "الرفاعي",
+          "eng": "Al-Rifa'i",
+          "kur": "",
+          "notes": "Its former subdistricts Qal'at Sukkar (2018), al-Nasr (2018) and al-Fajr (2019) are now separate districts; only the district centre remains.",
+          "subdistricts": []
+        },
+        {
+          "arb": "سوق الشيوخ",
+          "eng": "Suq Al-Shuyukh",
+          "kur": "",
+          "notes": "Nahiya al-Tar was transferred to the new Karmat Bani Sa'id District and Karmat Bani Sa'id itself became a district (2019). A Qada'a al-Ukaikah was proposed in 2019 but its approval could not be confirmed.",
+          "subdistricts": [
+            {
+              "arb": "الفضلية",
+              "eng": "Al-Fadliyah",
+              "kur": ""
+            },
+            {
+              "arb": "العكيكة",
+              "eng": "Ukaikah",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "الجبايش",
+          "eng": "Al-Chibayish",
+          "kur": "",
+          "notes": "Nahiya al-Fuhud was elevated to a district (Sept 2018); one academic paper (~2024) still lists al-Fuhud under al-Jibayish — outdated. Older COSIT data also listed a Nahiya al-Hamar; the current (2022) admin table lists Nahiya al-Manar.",
+          "subdistricts": [
+            {
+              "arb": "المنار",
+              "eng": "Al-Manar",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "الإصلاح",
+          "eng": "Al-Islah",
+          "kur": "",
+          "notes": "Elevated from nahiya of Nasiriyah to district in 2014; confirmed in the 2018 IHEC/Ministry of Planning 10-district list. Omitted from the current ar.wikipedia 'Aqdia al-Iraq' list (likely incompleteness).",
+          "subdistricts": []
+        },
+        {
+          "arb": "سيد دخيل",
+          "eng": "Sayyid Dakhil",
+          "kur": "",
+          "notes": "Elevated from nahiya of Nasiriyah to district (2018 wave, named in the IHEC director's official list); the governorate's official site (2026) still treats it as a qada'a. Omitted from the current ar.wikipedia 'Aqdia al-Iraq' list.",
+          "subdistricts": []
+        },
+        {
+          "arb": "قلعة سكر",
+          "eng": "Qalat Sukkar",
+          "kur": "",
+          "notes": "Elevated from nahiya of al-Rifa'i to district (2018 wave).",
+          "subdistricts": []
+        },
+        {
+          "arb": "الدواية",
+          "eng": "Al-Dawaya",
+          "kur": "",
+          "notes": "Elevated from nahiya of Shatrah to district (2018 wave).",
+          "subdistricts": []
+        },
+        {
+          "arb": "الغراف",
+          "eng": "Al-Gharraf",
+          "kur": "",
+          "notes": "Elevated from nahiya of Shatrah to district (2018 wave; named in the IHEC director's official list).",
+          "subdistricts": []
+        },
+        {
+          "arb": "الفهود",
+          "eng": "Al-Fuhud",
+          "kur": "",
+          "notes": "Elevated from nahiya of al-Jibayish to district, Sept 2018 (cited as source by ar.wikipedia); listed as a district by COSIT/citypopulation and in 2026 press. One ~2024 academic paper still calls it a nahiya of al-Jibayish.",
+          "subdistricts": []
+        },
+        {
+          "arb": "الفجر",
+          "eng": "Al-Fajr",
+          "kur": "",
+          "notes": "Elevated from nahiya to district; final Ministry of Planning approval announced on the governorate's official site thiqar.gov.iq (~2019).",
+          "subdistricts": []
+        },
+        {
+          "arb": "النصر",
+          "eng": "Al-Nasr",
+          "kur": "",
+          "notes": "Former nahiya (of al-Rifa'i); became a district on 14 October 2018 per the ar.wikipedia Qada'a al-Nasr article; confirmed among the governorate's aqdia in 2026 press.",
+          "subdistricts": []
+        },
+        {
+          "arb": "البطحاء",
+          "eng": "Al-Batha'a",
+          "kur": "",
+          "notes": "Elevated from nahiya of Nasiriyah to district; Ministry of Planning approval documented April 2019 (admin code 33141), governor's endorsement Sept 2019.",
+          "subdistricts": []
+        },
+        {
+          "arb": "كرمة بني سعيد",
+          "eng": "Karmat Bani Sa'id",
+          "kur": "",
+          "notes": "Elevated from nahiya of Suq al-Shuyukh to district; Ministry of Planning approval announced Aug 2019 (admin code 33151), retaining Nahiya al-Tar transferred from Suq al-Shuyukh (code 33152).",
+          "subdistricts": [
+            {
+              "arb": "الطار",
+              "eng": "Al-Tar",
+              "kur": ""
+            }
+          ]
+        }
+      ],
+      "eng": "Thi Qar",
+      "kur": "زیقار",
+      "notes": "Sources used: ar.wikipedia 'أقضية العراق' (current; lists 13 districts), ar.wikipedia 'محافظة ذي قار' (2022 admin table; 8 districts, mixed/outdated), individual ar.wikipedia district articles, thiqar.gov.iq official announcements (~2019 and 2026), nasiriaelc.com reports of IHEC/Ministry of Planning approvals (2018–2019), citypopulation.de (COSIT 2018 estimate snapshot), en.wikipedia 'Dhi Qar Governorate' and 'Districts of Iraq'. DISCREPANCIES: en.wikipedia lists only 6 districts and 'Districts of Iraq' only 5 — both reflect the pre-2014 structure and are outdated. citypopulation.de lists 10 (2018 COSIT snapshot): Ad-Dawayah, Al-Fuhud, Al-Islah, Al-Jibayish, An-Nasiriyah, Ar-Rifa'i, Ash-Shatrah, Qal'at Sikar, Sa'id Dakhil, Suq ash-Shuyukh — it misses al-Gharraf, al-Fajr, al-Nasr, al-Batha'a and Karmat Bani Sa'id. The 2022 ar.wiki admin table lists 8 (Nasiriyah, Shatrah, al-Rifa'i, Suq al-Shuyukh, al-Jibayish, al-Nasr, al-Fajr, al-Fuhud) and re-treats al-Islah, Sayyid Dakhil, al-Gharraf, Qal'at Sukkar and al-Dawaya as subdistricts, contradicting their 2014–2019 Ministry-approved district status. The current ar.wiki 'Aqdia al-Iraq' list (13) omits Sayyid Dakhil and al-Islah — almost certainly wiki incompleteness, as both are confirmed districts by official sources through 2026. One academic paper (~2024) still calls al-Fuhud a nahiya of al-Jibayish and Karmat Bani Sa'id a nahiya of Suq al-Shuyukh — outdated relative to the 2018/2019 upgrades. A proposed Qada'a al-Ukaikah (2019 planning document) could not be confirmed as finalized and is not listed. Subdistrict lists reflect the post-upgrade structure; single-unit new districts are reported with empty lists and explanatory notes."
+    },
+    {
+      "arb": "المثنى",
+      "districts": [
+        {
+          "arb": "السماوة",
+          "eng": "Samawah",
+          "kur": "",
+          "notes": "Provincial capital district. Its former subdistrict Suwair was upgraded to a district (~2025).",
+          "subdistricts": [
+            {
+              "arb": "السماوة",
+              "eng": "Samawah",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "الرميثة",
+          "eng": "Rumaitha",
+          "kur": "",
+          "notes": "Former subdistricts Majd and Najmi were upgraded to districts (Majd by Aug 2026, Najmi by mid-2026).",
+          "subdistricts": [
+            {
+              "arb": "الرميثة",
+              "eng": "Rumaitha",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "الخضر",
+          "eng": "Khidhir",
+          "kur": "",
+          "notes": "",
+          "subdistricts": [
+            {
+              "arb": "الخضر",
+              "eng": "Khidhir",
+              "kur": ""
+            },
+            {
+              "arb": "الدراجي",
+              "eng": "Daraji",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "السلمان",
+          "eng": "Salman",
+          "kur": "",
+          "notes": "",
+          "subdistricts": [
+            {
+              "arb": "السلمان",
+              "eng": "Salman",
+              "kur": ""
+            },
+            {
+              "arb": "بصية",
+              "eng": "Busaiyah",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "الوركاء",
+          "eng": "Warka",
+          "kur": "",
+          "notes": "Upgraded from subdistrict to district before 2018 (already a district with a central subdistrict in citypopulation.de 2018 data). Its former subdistrict Hilal was upgraded to a district ~2025.",
+          "subdistricts": [
+            {
+              "arb": "الوركاء",
+              "eng": "Warka",
+              "kur": ""
+            },
+            {
+              "arb": "الكرامة",
+              "eng": "Karama",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "النجمي",
+          "eng": "Najmi",
+          "kur": "",
+          "notes": "Upgraded from subdistrict of Rumaitha to district; listed as a district in ar.wikipedia's Muthanna admin table (mid-2026) and by the governor (Aug 2026).",
+          "subdistricts": [
+            {
+              "arb": "النجمي",
+              "eng": "Najmi",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "الهلال",
+          "eng": "Hilal",
+          "kur": "",
+          "notes": "Upgraded from subdistrict (of Warka) to district; Ministry of Planning approval reported by INA ~2025.",
+          "subdistricts": [
+            {
+              "arb": "الهلال",
+              "eng": "Hilal",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "السوير",
+          "eng": "Suwair",
+          "kur": "",
+          "notes": "Upgraded from subdistrict of Samawah to district; Ministry of Planning approval reported by INA ~2025.",
+          "subdistricts": [
+            {
+              "arb": "السوير",
+              "eng": "Suwair",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "المجد",
+          "eng": "Majd",
+          "kur": "",
+          "notes": "Upgraded from subdistrict of Rumaitha to district; named as a district by the governor of Muthanna (Aug 2026). Some older sources (governorate website muthana.gov.iq, ar.wikipedia's Rumaitha article) still list it as a Rumaitha subdistrict.",
+          "subdistricts": [
+            {
+              "arb": "المجد",
+              "eng": "Majd",
+              "kur": ""
+            }
+          ]
+        }
+      ],
+      "eng": "Muthanna",
+      "kur": "",
+      "notes": "Muthanna's district structure has expanded beyond the older 5-district layout (Samawah, Rumaitha, Khidhir, Salman, Warka). Four former subdistricts were upgraded to districts: Warka (already a district in citypopulation.de's 2018 data), Suwair and Hilal (Iraqi Ministry of Planning approval reported by Iraqi News Agency INA ~2025, cited in ar.wikipedia's Rumaitha District article), Najmi (listed as a district in ar.wikipedia's Muthanna admin table, mid-2026), and Majd (named as a district by Governor Muhannad al-Attabi, iraqpaper.com 2026-08-31). Current official structure: 9 districts + 3 subdistricts (Karama under Warka, Daraji under Khidhir, Busaiyah under Salman) = 12 units, matching the old 5+7 count. Discrepancies: ar.wikipedia's infobox says 8 districts/3 subdistricts and its admin table still lists Majd as Rumaitha's subdistrict (likely edited before the Majd upgrade); the governor's Aug-2026 statement lists 8 districts (incl. Majd) + 3 subdistricts = 11 units but omits Samawah district, presumably because that land-title event did not cover the provincial-center district; muthana.gov.iq still describes Majd as a Rumaitha subdistrict (stale). en.wikipedia 'Districts of Iraq' still lists only 4 Muthanna districts (Al-Khidhir, Al-Rumaitha, Al-Salman, Al-Samawa) - outdated; en.wikipedia 'Muthanna Governorate' has no district list. Confirmed: Afak, Diwaniya and Hamza belong to Qadisiyyah Governorate (per 'Districts of Iraq' and citypopulation.de) and are NOT in Muthanna. Each district's subdistrict list below includes its central subdistrict (same name as the district), following citypopulation.de's 'Central Subdistrict' convention and ar.wikipedia's admin table."
+    },
+    {
+      "arb": "القادسية",
+      "districts": [
+        {
+          "arb": "الديوانية",
+          "eng": "Diwaniya",
+          "kur": "",
+          "notes": "Governorate capital district; its former subdistricts (As-Saniya, Ash-Shafi'iyah, Ad-Daghara) are now independent districts.",
+          "subdistricts": []
+        },
+        {
+          "arb": "عفك",
+          "eng": "Afaq",
+          "kur": "",
+          "notes": "Former subdistricts Al-Budair and Sumer are now independent districts.",
+          "subdistricts": [
+            {
+              "arb": "نفر",
+              "eng": "Nafar",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "الشامية",
+          "eng": "Al-Shamiya",
+          "kur": "",
+          "notes": "Former subdistricts Ghamas and Al-Mahnawiya are now independent districts.",
+          "subdistricts": [
+            {
+              "arb": "الصلاحية",
+              "eng": "Al-Salahiyah",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "الحمزة الشرقي",
+          "eng": "Hamza Al-Sharqi",
+          "kur": "",
+          "notes": "Official current name is الحمزة الشرقي (Hamza Al-Sharqi); older sources list it as الحمزة / Hamza. Former subdistricts As-Sudayr and Ash-Shanafiya are now independent districts.",
+          "subdistricts": [
+            {
+              "arb": "البسامية",
+              "eng": "Al-Bassamiya",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "غماس",
+          "eng": "Ghamas",
+          "kur": "",
+          "notes": "Formerly a subdistrict of Al-Shamiya; upgraded to district.",
+          "subdistricts": []
+        },
+        {
+          "arb": "البدير",
+          "eng": "Al-Budair",
+          "kur": "",
+          "notes": "Formerly a subdistrict of Afaq (also written آل بدير); upgraded to district — confirmed as قضاء ال بدير in Jan 2026 Iraqi press.",
+          "subdistricts": []
+        },
+        {
+          "arb": "الدغارة",
+          "eng": "Ad-Daghara",
+          "kur": "",
+          "notes": "Formerly a subdistrict of Diwaniya; upgraded to district. citypopulation.de lists it as 'Akad [Ad-Daghārah]' (native اكد) — no other source corroborates an 'Akad' name.",
+          "subdistricts": []
+        },
+        {
+          "arb": "السنية",
+          "eng": "As-Saniya",
+          "kur": "",
+          "notes": "Formerly a subdistrict of Diwaniya; upgraded to district.",
+          "subdistricts": []
+        },
+        {
+          "arb": "سومر",
+          "eng": "Sumer",
+          "kur": "",
+          "notes": "Formerly a subdistrict of Afaq; upgraded to district.",
+          "subdistricts": []
+        },
+        {
+          "arb": "المهناوية",
+          "eng": "Al-Mahnawiya",
+          "kur": "",
+          "notes": "Formerly a subdistrict of Al-Shamiya; upgraded to district.",
+          "subdistricts": []
+        },
+        {
+          "arb": "الشافعية",
+          "eng": "Ash-Shafi'iyah",
+          "kur": "",
+          "notes": "Formerly a subdistrict of Diwaniya; upgraded to district — confirmed as قضاء الشافعية in Sep 2026 Iraqi press.",
+          "subdistricts": []
+        },
+        {
+          "arb": "الشنافية",
+          "eng": "Ash-Shanafiya",
+          "kur": "",
+          "notes": "Formerly a subdistrict of Hamza; upgraded to district — confirmed as قضاء الشنافية in Dec 2025 Iraqi press.",
+          "subdistricts": []
+        },
+        {
+          "arb": "السدير",
+          "eng": "As-Sudayr",
+          "kur": "",
+          "notes": "Formerly a subdistrict of Hamza; upgraded to district — confirmed as قضاء السدير in 2025 Iraqi press.",
+          "subdistricts": []
+        }
+      ],
+      "eng": "Qadisiyyah",
+      "kur": "قادسیە",
+      "notes": "Current official structure is 13 districts + 3 subdistricts (16 units), per citypopulation.de Iraq admin page (2024 census data) and a 2026 University of Al-Qadisiyah journal paper (مجلة القادسية للعلوم الإنسانية), which explicitly assigns the only remaining subdistricts: Nafar (Afaq district), Al-Salahiyah (Shamiya), Al-Bassamiya (Hamza). Recent Iraqi news corroborates district status for Shanafiya, Sudayr, Shafi'iyah, Al-Budair, and Hamza Al-Sharqi. Older sources (ar.wikipedia governorate article — still not updated; en.wikipedia 'Districts of Iraq'; IOM 2009 profile) list only 4 districts (Diwaniya, Al-Shamiya, Afaq, Hamza) with 11 subdistricts — the other 9 districts are former subdistricts that were upgraded. Discrepancies: (1) citypopulation.de lists the Daghara district as 'Akad [Ad-Daghārah]' (native اكد) — uncorroborated anywhere else, so الدغارة retained; (2) ar.wikipedia's قضاء الحمزة article title uses 'Al-Hamza' but its text and 2025 Iraqi news use the official name الحمزة الشرقي (Hamza Al-Sharqi); (3) Al-Budair is also written آل بدير. kur fields intentionally empty — no Kurdish names used for this governorate."
+    },
+    {
+      "arb": "واسط",
+      "districts": [
+        {
+          "arb": "الكوت",
+          "eng": "Kut",
+          "kur": "",
+          "notes": "",
+          "subdistricts": [
+            {
+              "arb": "واسط",
+              "eng": "Wasit",
+              "kur": ""
+            },
+            {
+              "arb": "شيخ سعد",
+              "eng": "Sheikh Saad",
+              "kur": ""
+            },
+            {
+              "arb": "القصبة القديمة (الدجيلي)",
+              "eng": "Al-Qasaba Al-Qadima (Al-Dujaili)",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "النعمانية",
+          "eng": "Al-Numaniya",
+          "kur": "",
+          "notes": "No subdistricts listed in sources; district-center only.",
+          "subdistricts": []
+        },
+        {
+          "arb": "الأحرار",
+          "eng": "Al-Ahrar",
+          "kur": "",
+          "notes": "Formerly a subdistrict of Numaniya district; elevated to district 27/2/2019 (Ministry of Planning letter 4692, code 26071). No subdistricts; district-center only.",
+          "subdistricts": []
+        },
+        {
+          "arb": "الحي",
+          "eng": "Al-Hay",
+          "kur": "",
+          "notes": "",
+          "subdistricts": [
+            {
+              "arb": "البشائر",
+              "eng": "Al-Basha'ir",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "الموفقية",
+          "eng": "Al-Muwafaqiyah",
+          "kur": "",
+          "notes": "Formerly a subdistrict of Al-Hay district; now its own district. No subdistricts; district-center only.",
+          "subdistricts": []
+        },
+        {
+          "arb": "بدرة",
+          "eng": "Badra",
+          "kur": "",
+          "notes": "",
+          "subdistricts": [
+            {
+              "arb": "جصان",
+              "eng": "Jassan",
+              "kur": ""
+            },
+            {
+              "arb": "الذهب (زرباطية)",
+              "eng": "Al-Dhahab (Zurbatiyah)",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "الصويرة",
+          "eng": "Al-Suwaira",
+          "kur": "",
+          "notes": "",
+          "subdistricts": [
+            {
+              "arb": "الشحيمية",
+              "eng": "Al-Shuhaymiyah",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "الزبيدية",
+          "eng": "Al-Zubaidiyah",
+          "kur": "",
+          "notes": "Formerly a subdistrict of Al-Suwaira district; now its own district (confirmed by 2026 Iraqi press references to قضاء الزبيدية and the 2023 Wasit admin-area table). No subdistricts; district-center only.",
+          "subdistricts": []
+        },
+        {
+          "arb": "العزيزية",
+          "eng": "Al-Aziziyah",
+          "kur": "",
+          "notes": "",
+          "subdistricts": [
+            {
+              "arb": "تاج الدين (الحفرية)",
+              "eng": "Taj Al-Din (Al-Hafriyah)",
+              "kur": ""
+            },
+            {
+              "arb": "الدبوني",
+              "eng": "Al-Dubuni",
+              "kur": ""
+            },
+            {
+              "arb": "سيد الشهداء",
+              "eng": "Sayyid Al-Shuhada",
+              "kur": ""
+            }
+          ]
+        }
+      ],
+      "eng": "Wasit",
+      "kur": "واسیت",
+      "notes": "Sources: en.wikipedia 'Wasit Governorate' and 'Districts of Iraq' (both still show the OLD 6-district structure: Kut, Suwaira, Aziziyah, Hay, Numaniya, Badra); ar.wikipedia 'قائمة نواحي العراق' and 'أقضية العراق' show the CURRENT 9-district structure (الموفقية, الأحرار, الزبيدية elevated from subdistricts to districts; Al-Ahrar upgrade confirmed 27/2/2019 per Iraqi Ministry of Planning letter 4692); ar.wikipedia 'محافظة واسط' infobox says 9 districts/9 subdistricts though its admin table still shows the old 6-district layout. citypopulation.de (2018 data) reflects the old structure and was used only to cross-check Arabic spellings of older subdistricts. New subdistricts per the subdistrict list: ناحية القصبة القديمة (الدجيلي) under Kut and ناحية سيد الشهداء under Aziziyah. Districts of Numaniya, Ahrar, Muwafaqiyah, Zubaidiyah have no subdistricts (district-center only) in the sources."
+    }
+  ]
+}
