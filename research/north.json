@@ -1,0 +1,533 @@
+{
+  "governorates": [
+    {
+      "arb": "نينوى",
+      "districts": [
+        {
+          "arb": "الموصل",
+          "eng": "Mosul",
+          "kur": "مووسڵ",
+          "notes": "Includes the Al-Hamidat subdistrict per ar.wikipedia (abolished 1986, later re-established; absent from citypopulation.de's 2018 subdistrict list).",
+          "subdistricts": [
+            {
+              "arb": "الموصل",
+              "eng": "Mosul (central)",
+              "kur": ""
+            },
+            {
+              "arb": "بعشيقة",
+              "eng": "Bashiqa",
+              "kur": ""
+            },
+            {
+              "arb": "الشورة",
+              "eng": "Ash-Shura",
+              "kur": ""
+            },
+            {
+              "arb": "حمام العليل",
+              "eng": "Hamam al-Alil",
+              "kur": ""
+            },
+            {
+              "arb": "القيارة",
+              "eng": "Al-Qayyara",
+              "kur": ""
+            },
+            {
+              "arb": "المحلبية",
+              "eng": "Al-Muhalabiya",
+              "kur": ""
+            },
+            {
+              "arb": "الحميدات",
+              "eng": "Al-Hamidat",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "تلعفر",
+          "eng": "Tel Afar",
+          "kur": "",
+          "notes": "In April 2025 Baghdad Today reported a federal initiative to convert Tel Afar district into Iraq's 20th governorate (proposed name Jazira); not implemented.",
+          "subdistricts": [
+            {
+              "arb": "تلعفر",
+              "eng": "Tel Afar (central)",
+              "kur": ""
+            },
+            {
+              "arb": "زمار",
+              "eng": "Zumar",
+              "kur": ""
+            },
+            {
+              "arb": "ربيعة",
+              "eng": "Rabia",
+              "kur": ""
+            },
+            {
+              "arb": "العياضية",
+              "eng": "Al-Ayadiya",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "سنجار",
+          "eng": "Sinjar",
+          "kur": "شنگال",
+          "notes": "Disputed territory; one of two major Yazidi population centers (the other being Shekhan). Kurdish name (Qeza Şingal / قەزای شنگال) given in the en.wikipedia infobox.",
+          "subdistricts": [
+            {
+              "arb": "سنجار",
+              "eng": "Sinjar (central)",
+              "kur": ""
+            },
+            {
+              "arb": "الشمال",
+              "eng": "Ash-Shamal",
+              "kur": ""
+            },
+            {
+              "arb": "القيروان",
+              "eng": "Al-Qayrawan",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "الحمدانية",
+          "eng": "Al-Hamdaniya",
+          "kur": "",
+          "notes": "Also known as the Bakhdida district. A fourth subdistrict, Aski Kalak (Khabat), is listed by some sources but is de facto administered as part of Aqrah district (Dohuk/KRG); citypopulation.de marks Kalak/Kelek as a dissolved subdistrict.",
+          "subdistricts": [
+            {
+              "arb": "بغديدا",
+              "eng": "Baghdida (Al-Hamdaniya) (central)",
+              "kur": ""
+            },
+            {
+              "arb": "النمرود",
+              "eng": "Nimrud",
+              "kur": ""
+            },
+            {
+              "arb": "برطلة",
+              "eng": "Bartella",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "تلكيف",
+          "eng": "Tel Keppe",
+          "kur": "",
+          "notes": "Also rendered Tel Kaif / Tel Keif / Talkaif.",
+          "subdistricts": [
+            {
+              "arb": "تلكيف",
+              "eng": "Tel Keppe (central)",
+              "kur": ""
+            },
+            {
+              "arb": "وانة",
+              "eng": "Wana",
+              "kur": ""
+            },
+            {
+              "arb": "ألقوش",
+              "eng": "Alqosh",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "مخمور",
+          "eng": "Makhmur",
+          "kur": "مەخموور",
+          "notes": "Disputed territory: claimed by the KRG (Erbil Governorate) but administered by the federal government as part of Nineveh since 2017. The KRG/Erbil listing recognizes only three subdistricts (Qaraj, Gwer, Kandinawa); the federal Nineveh listing has five (additionally Al-Kuwayr and Mala Qara).",
+          "subdistricts": [
+            {
+              "arb": "مخمور",
+              "eng": "Makhmur (central)",
+              "kur": ""
+            },
+            {
+              "arb": "الكوير",
+              "eng": "Al-Kuwayr",
+              "kur": ""
+            },
+            {
+              "arb": "كنديناوة",
+              "eng": "Kandinawa",
+              "kur": ""
+            },
+            {
+              "arb": "قراج",
+              "eng": "Qaraj",
+              "kur": ""
+            },
+            {
+              "arb": "ملا قرة",
+              "eng": "Mala Qara",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "البعاج",
+          "eng": "Al-Ba'aj",
+          "kur": "",
+          "notes": "",
+          "subdistricts": [
+            {
+              "arb": "البعاج",
+              "eng": "Al-Ba'aj (central)",
+              "kur": ""
+            },
+            {
+              "arb": "القحطانية",
+              "eng": "Al-Qahtaniya",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "الحضر",
+          "eng": "Al-Hadar",
+          "kur": "",
+          "notes": "Also known as Hatra. The non-central subdistrict is تل عبطة (Tal Abta) per ar.wikipedia; citypopulation.de renders the same unit as التل (At-Tal).",
+          "subdistricts": [
+            {
+              "arb": "الحضر",
+              "eng": "Al-Hadar (central)",
+              "kur": ""
+            },
+            {
+              "arb": "تل عبطة",
+              "eng": "Tal Abta",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "الشيخان",
+          "eng": "Shekhan",
+          "kur": "شێخان",
+          "notes": "Disputed territory: the northern subdistricts (Atrush, Baadri, Qasruk) are de facto administered by Dohuk Governorate (KRG); the Nineveh-administered portion comprises Shekhan center and Zaylakan.",
+          "subdistricts": [
+            {
+              "arb": "الشيخان",
+              "eng": "Shekhan (central)",
+              "kur": ""
+            },
+            {
+              "arb": "زيلكان",
+              "eng": "Zaylakan",
+              "kur": ""
+            }
+          ]
+        }
+      ],
+      "eng": "Nineveh",
+      "kur": "نەینەوا",
+      "notes": "Nineveh comprises nine districts in the federal Iraqi listing; Aqrah (Akre), formerly a tenth district, is now officially in Dohuk Governorate and is excluded. Several districts lie in the disputed territories: Makhmur is claimed by the KRG (Erbil) but administered by Baghdad as part of Nineveh since 2017, and Sinjar, Shekhan, Tel Afar and the Nineveh Plains districts (Al-Hamdaniya, Tel Keppe) are disputed areas with de facto KRG/Dohuk administration over parts (notably northern Shekhan). citypopulation.de lists a Faidah (فايدة) subdistrict under Nineveh, but official district totals do not allocate it to any Nineveh district; ar.wikipedia places ناحية فايدة in Sumel district, Dohuk, so it is excluded here."
+    },
+    {
+      "arb": "كركوك",
+      "districts": [
+        {
+          "arb": "كركوك",
+          "eng": "Kirkuk",
+          "kur": "کەرکووک",
+          "notes": "Largest district; capital of the governorate. A 2025 academic paper on the district's units lists 7 entries (omitting Altun Kupri), but the COSIT-based 2024 census arithmetic (district total 1,549,454 vs. the other 7 subdistricts) and en.wikipedia's Altun Kupri article (infobox: District = Kirkuk) confirm Altun Kupri as the 8th subdistrict of Kirkuk District.",
+          "subdistricts": [
+            {
+              "arb": "كركوك",
+              "eng": "Kirkuk",
+              "kur": "کەرکووک"
+            },
+            {
+              "arb": "ليلان",
+              "eng": "Laylan",
+              "kur": ""
+            },
+            {
+              "arb": "قرة هنجير",
+              "eng": "Qarah Hanjir",
+              "kur": ""
+            },
+            {
+              "arb": "شوان",
+              "eng": "Shwan",
+              "kur": ""
+            },
+            {
+              "arb": "تازة خورماتو",
+              "eng": "Taza Khurmatu",
+              "kur": ""
+            },
+            {
+              "arb": "يايجي",
+              "eng": "Yayji",
+              "kur": ""
+            },
+            {
+              "arb": "الملتقى",
+              "eng": "Al-Multaqa",
+              "kur": ""
+            },
+            {
+              "arb": "التون كوبري",
+              "eng": "Altun Kupri",
+              "kur": "پردێ"
+            }
+          ]
+        },
+        {
+          "arb": "الدبس",
+          "eng": "Dibis",
+          "kur": "",
+          "notes": "ar.wikipedia's قضاء الدبس article claims a 'ناحية القدس' follows the district, but this is unverified and contradicted by the 2024 census data (Dibis 54,614 + Sargaran 23,487 = 78,101 = full district total); ناحية القدس is therefore excluded. Kurdish name uncertain: ar.wikipedia's district article gives پردێ (which is actually Altun Kupri's Kurdish name) while its town article gives دووبز; left empty.",
+          "subdistricts": [
+            {
+              "arb": "الدبس",
+              "eng": "Dibis",
+              "kur": ""
+            },
+            {
+              "arb": "سركران",
+              "eng": "Sarkaran",
+              "kur": "سرگران"
+            }
+          ]
+        },
+        {
+          "arb": "داقوق",
+          "eng": "Daquq",
+          "kur": "داقووق",
+          "notes": "Subdistrict list confirmed via COSIT/citypopulation 2018 estimates: Daquq district total 95,109 = Dāqūq 66,433 + Ar-Rashād 28,676. ar.wikipedia's قضاء داقوق article lists only مقاطعات (land parcels), not nahiyas, and loosely describes ناحية الرشاد as bordering the district to the east; the COSIT sums are the authoritative placement of Ar-Rashad in Daquq District.",
+          "subdistricts": [
+            {
+              "arb": "داقوق",
+              "eng": "Daquq",
+              "kur": "داقووق"
+            },
+            {
+              "arb": "الرشاد",
+              "eng": "Ar-Rashad",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "arb": "الحويجة",
+          "eng": "Hawija",
+          "kur": "حەویجە",
+          "notes": "Subdistrict list confirmed via COSIT/citypopulation 2018 estimates: Hawija district total 293,290 = Al-Ḥawījah 120,679 + Al-'Abāsī 54,526 + Ar-Riyāḍ 60,499 + Az-Zāb 57,586; also consistent with ar.wikipedia's قضاء الحويجة article listing الحويجة، الزاب، العباسي، الرياض among its towns. A motion was submitted by Kirkuk provincial council members to make Hawija a separate governorate (ar.wikipedia, citing archived source).",
+          "subdistricts": [
+            {
+              "arb": "الحويجة",
+              "eng": "Hawija",
+              "kur": "حەویجە"
+            },
+            {
+              "arb": "الزاب",
+              "eng": "Az-Zab",
+              "kur": ""
+            },
+            {
+              "arb": "العباسي",
+              "eng": "Al-Abbasi",
+              "kur": ""
+            },
+            {
+              "arb": "الرياض",
+              "eng": "Ar-Riyadh",
+              "kur": ""
+            }
+          ]
+        }
+      ],
+      "eng": "Kirkuk",
+      "kur": "کەرکووک",
+      "notes": "Kirkuk Governorate (محافظة كركوك, IQ-KI) is the centerpiece of the disputed territories of northern Iraq under Article 140 of the Iraqi Constitution; its final status (whether it joins the Kurdistan Region) remains unresolved. It has 4 districts and 16 subdistricts (نواحي) per the official COSIT structure used in the 2024 census (population 2,034,627). Altun Kupri town is additionally described as disputed in its own right."
+    },
+    {
+      "eng": "Diyala",
+      "arb": "ديالى",
+      "kur": "",
+      "notes": "Diyala Governorate (محافظة ديالى, IQ-DI) comprises 7 districts and 22 subdistricts per the official COSIT-based structure. Khanaqin and Kifri districts are part of the Disputed Territories claimed by the Kurdistan Regional Government: both are officially in Diyala per the federal government but are de facto split between Diyala and Sulaymaniyah Governorate (KRG). Jalwala was elevated from a subdistrict of Khanaqin to a separate seventh district (reflected in the current en.wikipedia district table).",
+      "districts": [
+        {
+          "eng": "Ba'quba",
+          "arb": "بعقوبة",
+          "kur": "",
+          "notes": "Provincial capital district. Subdistrict placement verified by COSIT/citypopulation 2018 estimates: the five subdistricts sum exactly to the district total (286,786 + 81,460 + 132,587 + 52,785 + 47,162 = 600,780). ar.wikipedia's قائمة نواحي العراق additionally lists خرنبات and الهويدر under Ba'quba; neither appears in COSIT's official subdistrict list, so both are excluded.",
+          "subdistricts": [
+            {
+              "eng": "Ba'quba",
+              "arb": "بعقوبة",
+              "kur": ""
+            },
+            {
+              "eng": "Al-Abara",
+              "arb": "العبارة",
+              "kur": ""
+            },
+            {
+              "eng": "Bani Sa'ad",
+              "arb": "بني سعد",
+              "kur": ""
+            },
+            {
+              "eng": "Buhriz",
+              "arb": "بهرز",
+              "kur": ""
+            },
+            {
+              "eng": "Kan'an",
+              "arb": "كنعان",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "eng": "Al-Khalis",
+          "arb": "الخالص",
+          "kur": "",
+          "notes": "Includes Jadidat Al-Shat (جديدة الشط), a newer subdistrict confirmed as part of Al-Khalis District by ar.wikipedia's ناحية جديدة الشط article and present in the COSIT-based 2024 census subdistrict list. ar.wikipedia additionally lists ناحية الغالبية and ناحية المحمودية (الأسود) under Al-Khalis; neither appears in COSIT's official list, so both are excluded pending verification.",
+          "subdistricts": [
+            {
+              "eng": "Al-Khalis",
+              "arb": "الخالص",
+              "kur": ""
+            },
+            {
+              "eng": "Al-Mansuriyah",
+              "arb": "المنصورية",
+              "kur": ""
+            },
+            {
+              "eng": "Hibhib",
+              "arb": "هبهب",
+              "kur": ""
+            },
+            {
+              "eng": "Al-Azeem",
+              "arb": "سد العظيم",
+              "kur": ""
+            },
+            {
+              "eng": "Al-Salam",
+              "arb": "السلام",
+              "kur": ""
+            },
+            {
+              "eng": "Jadidat Al-Shat",
+              "arb": "جديدة الشط",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "eng": "Al-Muqdadiya",
+          "arb": "المقدادية",
+          "kur": "",
+          "notes": "Subdistrict placement verified by COSIT/citypopulation 2018 estimates: 164,017 + 46,851 + 43,658 = 254,526 = district total.",
+          "subdistricts": [
+            {
+              "eng": "Al-Muqdadiya",
+              "arb": "المقدادية",
+              "kur": ""
+            },
+            {
+              "eng": "Abu Sayda",
+              "arb": "أبي صيدا",
+              "kur": ""
+            },
+            {
+              "eng": "Al-Wajihiya",
+              "arb": "الوجيهية",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "eng": "Balad Ruz",
+          "arb": "بلد روز",
+          "kur": "",
+          "notes": "Mandali and Qazaniya placement verified by COSIT/citypopulation 2018 estimates: 101,607 + 31,995 + 14,575 = 148,177 = district total. (ar.wikipedia's قائمة نواحي العراق lists كنعان here, but COSIT places Kan'an in Ba'quba District.)",
+          "subdistricts": [
+            {
+              "eng": "Balad Ruz",
+              "arb": "بلدروز",
+              "kur": ""
+            },
+            {
+              "eng": "Mandali",
+              "arb": "مندلي",
+              "kur": ""
+            },
+            {
+              "eng": "Qazaniya",
+              "arb": "قزانية",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "eng": "Khanaqin",
+          "arb": "خانقين",
+          "kur": "قەزای خانەقین",
+          "notes": "Part of the disputed territories: de facto split between Diyala and Sulaymaniyah Governorate (KRG). The KRG-administered portion (Qoratu and Maydan subdistricts) is not part of the official Diyala structure. Officially (COSIT): Khanaqin central + Al-Saadiya subdistricts (87,731 + 50,808 = 138,539 = district total); Jalawla was split off as its own district. Kurdish names verified via en.wikipedia (Khanaqin city: خانەقین/Xaneqîn; district: قەزای خانەقین/Qezay Xaneqîn).",
+          "subdistricts": [
+            {
+              "eng": "Khanaqin",
+              "arb": "خانقين",
+              "kur": "خانەقین"
+            },
+            {
+              "eng": "Al-Saadiya",
+              "arb": "السعدية",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "eng": "Jalawla",
+          "arb": "جلولاء",
+          "kur": "",
+          "notes": "Elevated from a subdistrict of Khanaqin District to a separate seventh district (reflected in the current en.wikipedia district table; COSIT's 2018 data still listed Jalawla as a subdistrict of Khanaqin, population 93,685 = current district population). Single-subdistrict district.",
+          "subdistricts": [
+            {
+              "eng": "Jalawla",
+              "arb": "جلولاء",
+              "kur": ""
+            }
+          ]
+        },
+        {
+          "eng": "Kifri",
+          "arb": "كفري",
+          "kur": "قەزای کفری",
+          "notes": "Disputed territory: officially in Diyala per the federal government of Iraq, but de facto split — the town of Kifri and its central subdistrict are administered by the KRG as part of Sulaymaniyah Governorate (Garmian). The official Diyala portion consists of the Jabara and Qara Tapa subdistricts only (10,041 + 41,538 = 51,579 = district total per COSIT). Kurdish district name verified via en.wikipedia (قەزای کفری).",
+          "subdistricts": [
+            {
+              "eng": "Jabara",
+              "arb": "جبارة",
+              "kur": ""
+            },
+            {
+              "eng": "Qara Tapa",
+              "arb": "قرة تبة",
+              "kur": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
